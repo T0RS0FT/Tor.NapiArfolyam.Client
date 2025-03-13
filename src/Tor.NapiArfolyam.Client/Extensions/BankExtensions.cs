@@ -8,16 +8,16 @@ namespace Tor.NapiArfolyam.Client.Extensions
 {
     internal static class BankExtensions
     {
-        private static readonly IReadOnlyDictionary<BankTypes, string> BankTypeCodeDictionary;
-        private static readonly IReadOnlyDictionary<string, BankTypes> BankCodeTypeDictionary;
+        private static readonly IReadOnlyDictionary<BankType, string> BankTypeCodeDictionary;
+        private static readonly IReadOnlyDictionary<string, BankType> BankCodeTypeDictionary;
 
         internal static readonly IReadOnlyList<Bank> Banks;
 
         static BankExtensions()
         {
-            var type = typeof(BankTypes);
+            var type = typeof(BankType);
 
-            Banks = [.. Enum.GetValues<BankTypes>().Select(enumValue =>
+            Banks = [.. Enum.GetValues<BankType>().Select(enumValue =>
             {
                 var memberInfo = type.GetMember(enumValue.ToString())[0];
 
@@ -36,10 +36,10 @@ namespace Tor.NapiArfolyam.Client.Extensions
                 .AsReadOnly();
         }
 
-        internal static string ToBankCode(this BankTypes bankType)
+        internal static string ToBankCode(this BankType bankType)
             => BankTypeCodeDictionary[bankType];
 
-        internal static BankTypes? ToBankType(this string bankCode)
+        internal static BankType? ToBankType(this string bankCode)
             => BankCodeTypeDictionary.ContainsKey(bankCode) ? BankCodeTypeDictionary[bankCode] : null;
     }
 }

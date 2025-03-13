@@ -1,6 +1,6 @@
 ﻿namespace Tor.NapiArfolyam.Client.Enums
 {
-    public enum CurrencyCodes
+    public enum CurrencyCode
     {
         GBP,
         AUD,

@@ -3,7 +3,7 @@ using Tor.NapiArfolyam.Client.Attributes;
 
 namespace Tor.NapiArfolyam.Client.Enums
 {
-    public enum BankTypes
+    public enum BankType
     {
         [BankCode("bb")]
         [Description("Budapest Bank")]

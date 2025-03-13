@@ -2,9 +2,9 @@
 
 namespace Tor.NapiArfolyam.Client.Models
 {
-    public class Bank(BankTypes bankType, string code, string name)
+    public class Bank(BankType bankType, string code, string name)
     {
-        public readonly BankTypes BankType = bankType;
+        public readonly BankType BankType = bankType;
         public readonly string Code = code;
         public readonly string Name = name;
     }
