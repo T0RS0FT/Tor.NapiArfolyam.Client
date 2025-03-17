@@ -10,4 +10,9 @@
     <PackageReference Include="Microsoft.Extensions.Http" Version="8.0.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <InternalsVisibleTo Include="Tor.NapiArfolyam.Client.Tests" />
+    <InternalsVisibleTo Include="Tor.NapiArfolyam.Client.BlazorDemo" />
+  </ItemGroup>
+
 </Project>

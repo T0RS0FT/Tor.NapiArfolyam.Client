@@ -5,75 +5,75 @@ namespace Tor.NapiArfolyam.Client.Enums
 {
     public enum BankType
     {
-        [BankCode("bb")]
+        [Code("bb")]
         [Description("Budapest Bank")]
         BudapestBank,
 
-        [BankCode("allianz")]
+        [Code("allianz")]
         [Description("Allianz")]
         Allianz,
 
-        [BankCode("cib")]
+        [Code("cib")]
         [Description("CIB Bank")]
         Cib,
 
-        [BankCode("citibank")]
+        [Code("citibank")]
         [Description("Citibank")]
         Citibank,
 
-        [BankCode("commerz")]
+        [Code("commerz")]
         [Description("Commerzbank")]
         Commerzbank,
 
-        [BankCode("erste")]
+        [Code("erste")]
         [Description("Erste Bank")]
         Erste,
 
-        [BankCode("kdb")]
+        [Code("kdb")]
         [Description("KDB Bank")]
         Kdb,
 
-        [BankCode("kh")]
+        [Code("kh")]
         [Description("K&H Bank")]
         Kh,
 
-        [BankCode("mkb")]
+        [Code("mkb")]
         [Description("MKB Bank")]
         Mkb,
 
-        [BankCode("oberbank")]
+        [Code("oberbank")]
         [Description("Oberbank")]
         Oberbank,
 
-        [BankCode("otp")]
+        [Code("otp")]
         [Description("OTP Bank")]
         Otp,
 
-        [BankCode("raiffeisen")]
+        [Code("raiffeisen")]
         [Description("Raiffeisen Bank")]
         Raiffeisen,
 
-        [BankCode("unicredit")]
+        [Code("unicredit")]
         [Description("UniCredit Bank")]
         UniCredit,
 
-        [BankCode("volksbank")]
+        [Code("volksbank")]
         [Description("Volksbank")]
         Volksbank,
 
-        [BankCode("mnb")]
+        [Code("mnb")]
         [Description("Magyar Nemzeti Bank")]
         Mnb,
 
-        [BankCode("sopron")]
+        [Code("sopron")]
         [Description("Sopron Bank")]
         Sopron,
 
-        [BankCode("mfb")]
+        [Code("mfb")]
         [Description("Magyar Fejlesztési Bank")]
         Mfb,
 
-        [BankCode("fhb")]
+        [Code("fhb")]
         [Description("FHB Bank")]
         Fhb
     }

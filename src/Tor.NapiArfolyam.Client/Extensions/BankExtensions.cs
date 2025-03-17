@@ -1,4 +1,5 @@
-﻿using System.ComponentModel;
+﻿using System.Collections.ObjectModel;
+using System.ComponentModel;
 using System.Reflection;
 using Tor.NapiArfolyam.Client.Attributes;
 using Tor.NapiArfolyam.Client.Enums;
@@ -6,12 +7,11 @@ using Tor.NapiArfolyam.Client.Models;
 
 namespace Tor.NapiArfolyam.Client.Extensions
 {
-    internal static class BankExtensions
+    public static class BankExtensions
     {
-        private static readonly IReadOnlyDictionary<BankType, string> BankTypeCodeDictionary;
-        private static readonly IReadOnlyDictionary<string, BankType> BankCodeTypeDictionary;
-
-        internal static readonly IReadOnlyList<Bank> Banks;
+        private static readonly ReadOnlyDictionary<BankType, string> BankTypeCodeDictionary;
+        private static readonly ReadOnlyDictionary<string, BankType> BankCodeTypeDictionary;
+        private static readonly IReadOnlyList<Bank> Banks;
 
         static BankExtensions()
         {
@@ -23,7 +23,7 @@ namespace Tor.NapiArfolyam.Client.Extensions
 
                 return new Bank(
                     enumValue,
-                    memberInfo.GetCustomAttribute<BankCodeAttribute>().Code,
+                    memberInfo.GetCustomAttribute<CodeAttribute>().Code,
                     memberInfo.GetCustomAttribute<DescriptionAttribute>().Description);
             })];
 
@@ -36,10 +36,10 @@ namespace Tor.NapiArfolyam.Client.Extensions
                 .AsReadOnly();
         }
 
-        internal static string ToBankCode(this BankType bankType)
+        public static string ToBankCode(this BankType bankType)
             => BankTypeCodeDictionary[bankType];
 
-        internal static BankType? ToBankType(this string bankCode)
-            => BankCodeTypeDictionary.ContainsKey(bankCode) ? BankCodeTypeDictionary[bankCode] : null;
+        public static BankType? ToBankType(this string bankCode)
+            => BankCodeTypeDictionary.TryGetValue(bankCode, out BankType value) ? value : null;
     }
 }
