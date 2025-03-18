@@ -1,0 +1,86 @@
+﻿@page "/exchangerates"
+@rendermode InteractiveServer
+
+<h1>Exchange rates</h1>
+
+<div class="input-group input-group-sm mb-3">
+    <div class="input-group-prepend">
+        <span class="input-group-text" id="inputGroup-sizing-sm">Currency code</span>
+    </div>
+    <input type="text"
+           class="form-control"
+           aria-label="Small"
+           aria-describedby="inputGroup-sizing-sm"
+           @bind="request.CurrencyCode"
+           placeholder="e.g., USD">
+</div>
+
+<div class="input-group input-group-sm mb-3">
+    <div class="input-group-prepend">
+        <span class="input-group-text" id="inputGroup-sizing-sm">Bank code</span>
+    </div>
+    <input type="text"
+           class="form-control"
+           aria-label="Small"
+           aria-describedby="inputGroup-sizing-sm"
+           @bind="request.BankCode"
+           placeholder="e.g., mnb">
+</div>
+
+<div class="input-group input-group-sm mb-3">
+    <div class="input-group-prepend">
+        <span class="input-group-text" id="inputGroup-sizing-sm">Date</span>
+    </div>
+    <input type="date"
+           class="form-control"
+           aria-label="Small"
+           aria-describedby="inputGroup-sizing-sm"
+           @bind="request.Date">
+</div>
+
+<div class="input-group input-group-sm mb-3">
+    <div class="input-group-prepend">
+        <span class="input-group-text" id="inputGroup-sizing-sm">End date</span>
+    </div>
+    <input type="date"
+           class="form-control"
+           aria-label="Small"
+           aria-describedby="inputGroup-sizing-sm"
+           @bind="request.EndDate">
+</div>
+
+<button type="button" class="btn btn-primary" @onclick="LoadData">Load</button>
+
+@if (hasData)
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Bank code</th>
+                <th>Currency code</th>
+                <th>Currency type</th>
+                <th>Date time</th>
+                <th>Buying price</th>
+                <th>Selling price</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var exchangeRate in exchangeRates)
+            {
+                <tr>
+                    <td>@exchangeRate.BankCode</td>
+                    <td>@exchangeRate.CurrencyCode</td>
+                    <td>@exchangeRate.CurrencyType</td>
+                    <td>@exchangeRate.DateTime</td>
+                    <td>@exchangeRate.BuyingPrice</td>
+                    <td>@exchangeRate.SellingPrice</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+}
+
+@if (hasError)
+{
+    <div class="alert alert-danger" role="alert">@error</div>
+}

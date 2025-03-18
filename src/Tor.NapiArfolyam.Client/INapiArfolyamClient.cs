@@ -4,6 +4,8 @@ namespace Tor.NapiArfolyam.Client
 {
     public interface INapiArfolyamClient
     {
+        Task<bool> HealthCheckAsync();
+
         Task<NapiArfolyamResponse<List<ExchangeRateModel>>> GetExchangesAsync();
 
         Task<NapiArfolyamResponse<List<ExchangeRateModel>>> GetExchangesAsync(ExchangeRateRequest request);

@@ -11,6 +11,13 @@ namespace Tor.NapiArfolyam.Client
     {
         private readonly HttpClient httpClient = httpClient;
 
+        public async Task<bool> HealthCheckAsync()
+        {
+            var httpResponse = await httpClient.GetAsync(Constants.BaseUrl);
+
+            return httpResponse.IsSuccessStatusCode;
+        }
+
         public async Task<NapiArfolyamResponse<List<ExchangeRateModel>>> GetExchangesAsync()
             => await GetExchangesAsync(new ExchangeRateRequest());
 
