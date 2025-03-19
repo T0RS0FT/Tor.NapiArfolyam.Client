@@ -19,8 +19,8 @@ namespace Tor.NapiArfolyam.Client.Tests
 
             Assert.IsNotNull(result);
             Assert.IsTrue(result.Count > 0);
-            Assert.IsTrue(result.Count(x => x.CurrencyType == CurrencyType.Valuta) > 0);
-            Assert.IsTrue(result.Count(x => x.CurrencyType == CurrencyType.Deviza) > 0);
+            Assert.IsTrue(result.Any(x => x.CurrencyType == CurrencyType.Valuta));
+            Assert.IsTrue(result.Any(x => x.CurrencyType == CurrencyType.Deviza));
             Assert.IsTrue(result.All(x => !string.IsNullOrWhiteSpace(x.CurrencyCode)));
             Assert.IsTrue(result.All(x => !string.IsNullOrWhiteSpace(x.BankCode)));
             Assert.IsTrue(result.All(x => x.SellingPrice > 0));

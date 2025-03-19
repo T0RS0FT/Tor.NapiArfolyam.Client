@@ -13,9 +13,9 @@ namespace Tor.NapiArfolyam.Client
 
         public async Task<bool> HealthCheckAsync()
         {
-            var httpResponse = await httpClient.GetAsync(Constants.BaseUrl);
+            var result = await GetExchangesAsync(new ExchangeRateRequest() { BankCode = BankType.Cib.ToBankCode(), CurrencyCode = "usd" });
 
-            return httpResponse.IsSuccessStatusCode;
+            return result.Success;
         }
 
         public async Task<NapiArfolyamResponse<List<ExchangeRateModel>>> GetExchangesAsync()
