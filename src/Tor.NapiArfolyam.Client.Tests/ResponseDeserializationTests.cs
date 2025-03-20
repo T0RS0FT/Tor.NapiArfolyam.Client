@@ -25,8 +25,7 @@ namespace Tor.NapiArfolyam.Client.Tests
             Assert.IsTrue(result.ExchangeRates.Any(x => x.CurrencyType == CurrencyType.Deviza));
             Assert.IsTrue(result.ExchangeRates.All(x => !string.IsNullOrWhiteSpace(x.CurrencyCode)));
             Assert.IsTrue(result.ExchangeRates.All(x => !string.IsNullOrWhiteSpace(x.BankCode)));
-            Assert.IsTrue(result.ExchangeRates.All(x => x.SellingPrice > 0));
-            Assert.IsTrue(result.ExchangeRates.All(x => x.BuyingPrice > 0));
+            Assert.IsTrue(result.ExchangeRates.All(x => x.SellingPrice.HasValue || x.BuyingPrice.HasValue || x.MidPrice.HasValue));
             Assert.IsTrue(result.ExchangeRates.All(x => x.DateTime > DateTime.MinValue));
             Assert.IsTrue(result.ExchangeRates.All(x => x.DateTime < DateTime.MaxValue));
         }

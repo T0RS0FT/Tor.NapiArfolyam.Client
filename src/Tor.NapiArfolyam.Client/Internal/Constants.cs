@@ -17,6 +17,8 @@
         internal class Messages
         {
             internal const string HttpError = "An error occurred during the http request";
+            internal const string SourceCurrencyCodeNotFound = "Source currency code not found";
+            internal const string DestinationCurrencyCodeNotFound = "Destination currency code not found";
         }
     }
 }

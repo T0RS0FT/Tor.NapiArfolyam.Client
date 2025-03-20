@@ -2,196 +2,4384 @@
 <arfolyamok>
   <valuta>
     <item>
-      <bank>kh</bank>
-      <datum>2025-03-17 06:30:21</datum>
+      <bank>bb</bank>
+      <datum>2022-09-27 17:40:02</datum>
       <penznem>GBP</penznem>
-      <vetel>458.3800</vetel>
-      <eladas>491.6400</eladas>
+      <vetel>440.5400</vetel>
+      <eladas>468.7200</eladas>
     </item>
     <item>
-      <bank>kh</bank>
-      <datum>2025-03-17 06:30:21</datum>
+      <bank>bb</bank>
+      <datum>2022-09-27 17:40:02</datum>
       <penznem>AUD</penznem>
-      <vetel>221.8700</vetel>
-      <eladas>242.7700</eladas>
+      <vetel>264.9900</vetel>
+      <eladas>281.9500</eladas>
     </item>
     <item>
-      <bank>kh</bank>
-      <datum>2025-03-17 06:30:21</datum>
+      <bank>bb</bank>
+      <datum>2022-09-27 17:40:02</datum>
       <penznem>DKK</penznem>
-      <vetel>50.8700</vetel>
-      <eladas>56.2300</eladas>
+      <vetel>52.9800</vetel>
+      <eladas>56.3800</eladas>
     </item>
     <item>
-      <bank>kh</bank>
-      <datum>2025-03-17 06:30:21</datum>
+      <bank>bb</bank>
+      <datum>2022-09-27 17:40:02</datum>
       <penznem>JPY</penznem>
-      <vetel>2.3546</vetel>
-      <eladas>2.5764</eladas>
+      <vetel>2.8275</vetel>
+      <eladas>3.0085</eladas>
     </item>
     <item>
-      <bank>kh</bank>
-      <datum>2025-03-17 06:30:21</datum>
+      <bank>bb</bank>
+      <datum>2022-09-27 17:40:02</datum>
       <penznem>CAD</penznem>
-      <vetel>243.9600</vetel>
-      <eladas>266.9600</eladas>
+      <vetel>298.4600</vetel>
+      <eladas>317.5600</eladas>
     </item>
     <item>
-      <bank>kh</bank>
-      <datum>2025-03-17 06:30:21</datum>
+      <bank>bb</bank>
+      <datum>2022-09-27 17:40:02</datum>
       <penznem>NOK</penznem>
-      <vetel>32.7800</vetel>
-      <eladas>36.2400</eladas>
+      <vetel>37.9900</vetel>
+      <eladas>40.4300</eladas>
     </item>
     <item>
-      <bank>kh</bank>
-      <datum>2025-03-17 06:30:21</datum>
+      <bank>bb</bank>
+      <datum>2022-09-27 17:40:02</datum>
       <penznem>CHF</penznem>
-      <vetel>400.7400</vetel>
-      <eladas>429.8000</eladas>
+      <vetel>412.3000</vetel>
+      <eladas>438.6800</eladas>
     </item>
     <item>
-      <bank>kh</bank>
-      <datum>2025-03-17 06:30:21</datum>
+      <bank>bb</bank>
+      <datum>2022-09-27 17:40:02</datum>
       <penznem>SEK</penznem>
-      <vetel>34.4200</vetel>
-      <eladas>38.0400</eladas>
+      <vetel>36.1900</vetel>
+      <eladas>38.5100</eladas>
     </item>
     <item>
-      <bank>kh</bank>
-      <datum>2025-03-17 06:30:21</datum>
+      <bank>bb</bank>
+      <datum>2022-09-27 17:40:02</datum>
       <penznem>USD</penznem>
-      <vetel>357.0200</vetel>
-      <eladas>377.5800</eladas>
+      <vetel>408.6300</vetel>
+      <eladas>434.7700</eladas>
     </item>
     <item>
-      <bank>kh</bank>
-      <datum>2025-03-17 06:30:21</datum>
+      <bank>bb</bank>
+      <datum>2022-09-27 17:40:02</datum>
       <penznem>CZK</penznem>
-      <vetel>15.0100</vetel>
-      <eladas>16.9300</eladas>
+      <vetel>15.6800</vetel>
+      <eladas>17.3400</eladas>
     </item>
     <item>
-      <bank>kh</bank>
-      <datum>2025-03-17 06:30:21</datum>
+      <bank>bb</bank>
+      <datum>2022-09-27 17:40:02</datum>
       <penznem>PLN</penznem>
-      <vetel>89.7300</vetel>
-      <eladas>101.1900</eladas>
+      <vetel>81.2700</vetel>
+      <eladas>89.8300</eladas>
+    </item>
+    <item>
+      <bank>bb</bank>
+      <datum>2022-09-27 17:40:02</datum>
+      <penznem>EUR</penznem>
+      <vetel>394.0000</vetel>
+      <eladas>419.2000</eladas>
+    </item>
+    <item>
+      <bank>allianz</bank>
+      <datum>2011-03-31 06:30:04</datum>
+      <penznem>GBP</penznem>
+      <vetel>295.3700</vetel>
+      <eladas>310.5100</eladas>
+    </item>
+    <item>
+      <bank>allianz</bank>
+      <datum>2011-03-31 06:30:04</datum>
+      <penznem>CHF</penznem>
+      <vetel>200.1100</vetel>
+      <eladas>210.3700</eladas>
+    </item>
+    <item>
+      <bank>allianz</bank>
+      <datum>2011-03-31 06:30:04</datum>
+      <penznem>USD</penznem>
+      <vetel>183.5200</vetel>
+      <eladas>192.9300</eladas>
+    </item>
+    <item>
+      <bank>allianz</bank>
+      <datum>2011-03-31 06:30:04</datum>
+      <penznem>EUR</penznem>
+      <vetel>259.5200</vetel>
+      <eladas>272.8300</eladas>
+    </item>
+    <item>
+      <bank>cib</bank>
+      <datum>2025-03-20 12:14:02</datum>
+      <penznem>GBP</penznem>
+      <vetel>459.9500</vetel>
+      <eladas>498.2700</eladas>
+    </item>
+    <item>
+      <bank>cib</bank>
+      <datum>2025-03-20 12:14:02</datum>
+      <penznem>AUD</penznem>
+      <vetel>224.3200</vetel>
+      <eladas>243.0200</eladas>
+    </item>
+    <item>
+      <bank>cib</bank>
+      <datum>2025-03-20 12:14:02</datum>
+      <penznem>DKK</penznem>
+      <vetel>51.7000</vetel>
+      <eladas>56.0000</eladas>
+    </item>
+    <item>
+      <bank>cib</bank>
+      <datum>2025-03-20 12:14:02</datum>
+      <penznem>JPY</penznem>
+      <vetel>2.3884</vetel>
+      <eladas>2.5874</eladas>
+    </item>
+    <item>
+      <bank>cib</bank>
+      <datum>2025-03-20 12:14:02</datum>
+      <penznem>CAD</penznem>
+      <vetel>246.9600</vetel>
+      <eladas>267.5400</eladas>
+    </item>
+    <item>
+      <bank>cib</bank>
+      <datum>2025-03-20 12:14:02</datum>
+      <penznem>NOK</penznem>
+      <vetel>33.5000</vetel>
+      <eladas>36.3000</eladas>
+    </item>
+    <item>
+      <bank>cib</bank>
+      <datum>2025-03-20 12:14:02</datum>
+      <penznem>CHF</penznem>
+      <vetel>403.8400</vetel>
+      <eladas>437.5000</eladas>
+    </item>
+    <item>
+      <bank>cib</bank>
+      <datum>2025-03-20 12:14:02</datum>
+      <penznem>SEK</penznem>
+      <vetel>35.0400</vetel>
+      <eladas>37.9600</eladas>
+    </item>
+    <item>
+      <bank>cib</bank>
+      <datum>2025-03-20 12:14:02</datum>
+      <penznem>USD</penznem>
+      <vetel>354.0500</vetel>
+      <eladas>383.5500</eladas>
+    </item>
+    <item>
+      <bank>cib</bank>
+      <datum>2025-03-20 12:14:02</datum>
+      <penznem>CZK</penznem>
+      <vetel>15.4300</vetel>
+      <eladas>16.7100</eladas>
+    </item>
+    <item>
+      <bank>cib</bank>
+      <datum>2025-03-20 12:14:02</datum>
+      <penznem>PLN</penznem>
+      <vetel>92.1700</vetel>
+      <eladas>99.8500</eladas>
+    </item>
+    <item>
+      <bank>cib</bank>
+      <datum>2025-03-20 12:14:02</datum>
+      <penznem>EUR</penznem>
+      <vetel>383.7200</vetel>
+      <eladas>415.7000</eladas>
+    </item>
+    <item>
+      <bank>cib</bank>
+      <datum>2025-03-20 12:14:02</datum>
+      <penznem>RON</penznem>
+      <vetel>71.0400</vetel>
+      <eladas>90.4200</eladas>
+    </item>
+    <item>
+      <bank>citybank</bank>
+      <datum>2014-12-31 09:15:04</datum>
+      <penznem>GBP</penznem>
+      <vetel>386.6900</vetel>
+      <eladas>421.5200</eladas>
+    </item>
+    <item>
+      <bank>citybank</bank>
+      <datum>2014-12-31 09:15:04</datum>
+      <penznem>AUD</penznem>
+      <vetel>203.3700</vetel>
+      <eladas>221.6600</eladas>
+    </item>
+    <item>
+      <bank>citybank</bank>
+      <datum>2014-12-31 09:15:04</datum>
+      <penznem>DKK</penznem>
+      <vetel>40.6230</vetel>
+      <eladas>44.1540</eladas>
+    </item>
+    <item>
+      <bank>citybank</bank>
+      <datum>2014-12-31 09:15:04</datum>
+      <penznem>CAD</penznem>
+      <vetel>214.3300</vetel>
+      <eladas>233.5800</eladas>
+    </item>
+    <item>
+      <bank>citybank</bank>
+      <datum>2014-12-31 09:15:04</datum>
+      <penznem>NOK</penznem>
+      <vetel>33.4900</vetel>
+      <eladas>36.6020</eladas>
+    </item>
+    <item>
+      <bank>citybank</bank>
+      <datum>2014-12-31 09:15:04</datum>
+      <penznem>CHF</penznem>
+      <vetel>251.4900</vetel>
+      <eladas>273.3900</eladas>
+    </item>
+    <item>
+      <bank>citybank</bank>
+      <datum>2014-12-31 09:15:04</datum>
+      <penznem>SEK</penznem>
+      <vetel>32.1420</vetel>
+      <eladas>35.0510</eladas>
+    </item>
+    <item>
+      <bank>citybank</bank>
+      <datum>2014-12-31 09:15:04</datum>
+      <penznem>PLN</penznem>
+      <vetel>70.5900</vetel>
+      <eladas>76.9640</eladas>
+    </item>
+    <item>
+      <bank>citybank</bank>
+      <datum>2014-12-31 09:15:04</datum>
+      <penznem>EUR</penznem>
+      <vetel>302.0600</vetel>
+      <eladas>328.3900</eladas>
+    </item>
+    <item>
+      <bank>citybank</bank>
+      <datum>2014-12-31 09:15:04</datum>
+      <penznem>RON</penznem>
+      <vetel>67.4000</vetel>
+      <eladas>73.3370</eladas>
+    </item>
+    <item>
+      <bank>commerz</bank>
+      <datum>2022-11-30 09:00:01</datum>
+      <penznem>GBP</penznem>
+      <vetel>453.2600</vetel>
+      <eladas>486.1400</eladas>
+    </item>
+    <item>
+      <bank>commerz</bank>
+      <datum>2022-11-30 09:00:01</datum>
+      <penznem>CHF</penznem>
+      <vetel>397.4900</vetel>
+      <eladas>426.3300</eladas>
+    </item>
+    <item>
+      <bank>commerz</bank>
+      <datum>2022-11-30 09:00:01</datum>
+      <penznem>USD</penznem>
+      <vetel>379.1400</vetel>
+      <eladas>406.6400</eladas>
+    </item>
+    <item>
+      <bank>commerz</bank>
+      <datum>2022-11-30 09:00:01</datum>
+      <penznem>EUR</penznem>
+      <vetel>392.0300</vetel>
+      <eladas>420.4700</eladas>
+    </item>
+    <item>
+      <bank>erste</bank>
+      <datum>2025-03-20 07:35:17</datum>
+      <penznem>GBP</penznem>
+      <vetel>458.9000</vetel>
+      <eladas>492.1800</eladas>
+    </item>
+    <item>
+      <bank>erste</bank>
+      <datum>2025-03-20 07:35:17</datum>
+      <penznem>AUD</penznem>
+      <vetel>221.4700</vetel>
+      <eladas>242.3500</eladas>
+    </item>
+    <item>
+      <bank>erste</bank>
+      <datum>2025-03-20 07:35:17</datum>
+      <penznem>JPY</penznem>
+      <vetel>2.3589</vetel>
+      <eladas>2.5812</eladas>
+    </item>
+    <item>
+      <bank>erste</bank>
+      <datum>2025-03-20 07:35:17</datum>
+      <penznem>CAD</penznem>
+      <vetel>243.8200</vetel>
+      <eladas>266.8000</eladas>
+    </item>
+    <item>
+      <bank>erste</bank>
+      <datum>2025-03-20 07:35:17</datum>
+      <penznem>CHF</penznem>
+      <vetel>402.9200</vetel>
+      <eladas>432.1400</eladas>
+    </item>
+    <item>
+      <bank>erste</bank>
+      <datum>2025-03-20 07:35:17</datum>
+      <penznem>USD</penznem>
+      <vetel>353.2200</vetel>
+      <eladas>378.8400</eladas>
+    </item>
+    <item>
+      <bank>erste</bank>
+      <datum>2025-03-20 07:35:17</datum>
+      <penznem>CZK</penznem>
+      <vetel>14.3600</vetel>
+      <eladas>17.5500</eladas>
+    </item>
+    <item>
+      <bank>erste</bank>
+      <datum>2025-03-20 07:35:17</datum>
+      <penznem>PLN</penznem>
+      <vetel>85.7700</vetel>
+      <eladas>104.8300</eladas>
+    </item>
+    <item>
+      <bank>erste</bank>
+      <datum>2025-03-20 07:35:17</datum>
+      <penznem>EUR</penznem>
+      <vetel>384.8100</vetel>
+      <eladas>412.7300</eladas>
+    </item>
+    <item>
+      <bank>erste</bank>
+      <datum>2025-03-20 07:35:17</datum>
+      <penznem>RON</penznem>
+      <vetel>72.1100</vetel>
+      <eladas>88.1300</eladas>
+    </item>
+    <item>
+      <bank>erste</bank>
+      <datum>2025-03-20 07:35:17</datum>
+      <penznem>TRY</penznem>
+      <vetel>8.6800</vetel>
+      <eladas>10.6000</eladas>
+    </item>
+    <item>
+      <bank>erste</bank>
+      <datum>2025-03-20 07:35:17</datum>
+      <penznem>BGN</penznem>
+      <vetel>183.5000</vetel>
+      <eladas>224.2800</eladas>
+    </item>
+    <item>
+      <bank>kdb</bank>
+      <datum>2025-03-20 14:50:20</datum>
+      <penznem>GBP</penznem>
+      <vetel>466.9000</vetel>
+      <eladas>488.8800</eladas>
+    </item>
+    <item>
+      <bank>kdb</bank>
+      <datum>2025-03-20 14:50:20</datum>
+      <penznem>CHF</penznem>
+      <vetel>407.8200</vetel>
+      <eladas>427.8800</eladas>
+    </item>
+    <item>
+      <bank>kdb</bank>
+      <datum>2025-03-20 14:50:20</datum>
+      <penznem>USD</penznem>
+      <vetel>362.2000</vetel>
+      <eladas>376.2200</eladas>
+    </item>
+    <item>
+      <bank>kdb</bank>
+      <datum>2025-03-20 14:50:20</datum>
+      <penznem>EUR</penznem>
+      <vetel>391.6200</vetel>
+      <eladas>407.6000</eladas>
     </item>
     <item>
       <bank>kh</bank>
-      <datum>2025-03-17 06:30:21</datum>
+      <datum>2025-03-20 17:00:24</datum>
+      <penznem>GBP</penznem>
+      <vetel>460.3800</vetel>
+      <eladas>493.7800</eladas>
+    </item>
+    <item>
+      <bank>kh</bank>
+      <datum>2025-03-20 17:00:24</datum>
+      <penznem>AUD</penznem>
+      <vetel>221.2400</vetel>
+      <eladas>242.1000</eladas>
+    </item>
+    <item>
+      <bank>kh</bank>
+      <datum>2025-03-20 17:00:24</datum>
+      <penznem>DKK</penznem>
+      <vetel>50.8100</vetel>
+      <eladas>56.1500</eladas>
+    </item>
+    <item>
+      <bank>kh</bank>
+      <datum>2025-03-20 17:00:24</datum>
+      <penznem>JPY</penznem>
+      <vetel>2.3595</vetel>
+      <eladas>2.5820</eladas>
+    </item>
+    <item>
+      <bank>kh</bank>
+      <datum>2025-03-20 17:00:24</datum>
+      <penznem>CAD</penznem>
+      <vetel>245.1000</vetel>
+      <eladas>268.2000</eladas>
+    </item>
+    <item>
+      <bank>kh</bank>
+      <datum>2025-03-20 17:00:24</datum>
+      <penznem>NOK</penznem>
+      <vetel>33.0400</vetel>
+      <eladas>36.5200</eladas>
+    </item>
+    <item>
+      <bank>kh</bank>
+      <datum>2025-03-20 17:00:24</datum>
+      <penznem>CHF</penznem>
+      <vetel>402.0600</vetel>
+      <eladas>431.2200</eladas>
+    </item>
+    <item>
+      <bank>kh</bank>
+      <datum>2025-03-20 17:00:24</datum>
+      <penznem>SEK</penznem>
+      <vetel>34.4400</vetel>
+      <eladas>38.0600</eladas>
+    </item>
+    <item>
+      <bank>kh</bank>
+      <datum>2025-03-20 17:00:24</datum>
+      <penznem>USD</penznem>
+      <vetel>357.4600</vetel>
+      <eladas>378.0600</eladas>
+    </item>
+    <item>
+      <bank>kh</bank>
+      <datum>2025-03-20 17:00:24</datum>
+      <penznem>CZK</penznem>
+      <vetel>14.9900</vetel>
+      <eladas>16.9100</eladas>
+    </item>
+    <item>
+      <bank>kh</bank>
+      <datum>2025-03-20 17:00:24</datum>
+      <penznem>PLN</penznem>
+      <vetel>89.3600</vetel>
+      <eladas>100.7600</eladas>
+    </item>
+    <item>
+      <bank>kh</bank>
+      <datum>2025-03-20 17:00:24</datum>
       <penznem>EUR</penznem>
-      <vetel>388.3400</vetel>
-      <eladas>410.7200</eladas>
+      <vetel>387.7200</vetel>
+      <eladas>410.0600</eladas>
+    </item>
+    <item>
+      <bank>mkb</bank>
+      <datum>2023-04-28 07:30:31</datum>
+      <penznem>GBP</penznem>
+      <vetel>408.9500</vetel>
+      <eladas>435.1100</eladas>
+    </item>
+    <item>
+      <bank>mkb</bank>
+      <datum>2023-04-28 07:30:31</datum>
+      <penznem>AUD</penznem>
+      <vetel>216.7400</vetel>
+      <eladas>230.6000</eladas>
+    </item>
+    <item>
+      <bank>mkb</bank>
+      <datum>2023-04-28 07:30:31</datum>
+      <penznem>DKK</penznem>
+      <vetel>48.4300</vetel>
+      <eladas>51.5300</eladas>
+    </item>
+    <item>
+      <bank>mkb</bank>
+      <datum>2023-04-28 07:30:31</datum>
+      <penznem>JPY</penznem>
+      <vetel>2.4283</vetel>
+      <eladas>2.5837</eladas>
+    </item>
+    <item>
+      <bank>mkb</bank>
+      <datum>2023-04-28 07:30:31</datum>
+      <penznem>CAD</penznem>
+      <vetel>240.8000</vetel>
+      <eladas>256.2000</eladas>
+    </item>
+    <item>
+      <bank>mkb</bank>
+      <datum>2023-04-28 07:30:31</datum>
+      <penznem>NOK</penznem>
+      <vetel>30.8200</vetel>
+      <eladas>32.8000</eladas>
+    </item>
+    <item>
+      <bank>mkb</bank>
+      <datum>2023-04-28 07:30:31</datum>
+      <penznem>CHF</penznem>
+      <vetel>366.3600</vetel>
+      <eladas>389.8000</eladas>
+    </item>
+    <item>
+      <bank>mkb</bank>
+      <datum>2023-04-28 07:30:31</datum>
+      <penznem>SEK</penznem>
+      <vetel>31.8100</vetel>
+      <eladas>33.8500</eladas>
+    </item>
+    <item>
+      <bank>mkb</bank>
+      <datum>2023-04-28 07:30:31</datum>
+      <penznem>USD</penznem>
+      <vetel>327.6700</vetel>
+      <eladas>348.6300</eladas>
+    </item>
+    <item>
+      <bank>mkb</bank>
+      <datum>2023-04-28 07:30:31</datum>
+      <penznem>CZK</penznem>
+      <vetel>15.0700</vetel>
+      <eladas>16.6500</eladas>
+    </item>
+    <item>
+      <bank>mkb</bank>
+      <datum>2023-04-28 07:30:31</datum>
+      <penznem>PLN</penznem>
+      <vetel>77.2800</vetel>
+      <eladas>85.4200</eladas>
+    </item>
+    <item>
+      <bank>mkb</bank>
+      <datum>2023-04-28 07:30:31</datum>
+      <penznem>EUR</penznem>
+      <vetel>360.9900</vetel>
+      <eladas>384.0900</eladas>
+    </item>
+    <item>
+      <bank>mkb</bank>
+      <datum>2023-04-28 07:30:31</datum>
+      <penznem>RON</penznem>
+      <vetel>71.6600</vetel>
+      <eladas>79.2000</eladas>
+    </item>
+    <item>
+      <bank>oberbank</bank>
+      <datum>2025-03-20 13:10:27</datum>
+      <penznem>GBP</penznem>
+      <vetel>466.7800</vetel>
+      <eladas>490.0000</eladas>
+    </item>
+    <item>
+      <bank>oberbank</bank>
+      <datum>2025-03-20 13:10:27</datum>
+      <penznem>CHF</penznem>
+      <vetel>410.9100</vetel>
+      <eladas>421.9100</eladas>
+    </item>
+    <item>
+      <bank>oberbank</bank>
+      <datum>2025-03-20 13:10:27</datum>
+      <penznem>USD</penznem>
+      <vetel>361.8000</vetel>
+      <eladas>374.8000</eladas>
+    </item>
+    <item>
+      <bank>oberbank</bank>
+      <datum>2025-03-20 13:10:27</datum>
+      <penznem>CZK</penznem>
+      <vetel>15.4400</vetel>
+      <eladas>16.6000</eladas>
+    </item>
+    <item>
+      <bank>oberbank</bank>
+      <datum>2025-03-20 13:10:27</datum>
+      <penznem>EUR</penznem>
+      <vetel>390.4000</vetel>
+      <eladas>406.6000</eladas>
+    </item>
+    <item>
+      <bank>otp</bank>
+      <datum>2025-03-20 14:55:29</datum>
+      <penznem>GBP</penznem>
+      <vetel>464.8900</vetel>
+      <eladas>491.6800</eladas>
+    </item>
+    <item>
+      <bank>otp</bank>
+      <datum>2025-03-20 14:55:29</datum>
+      <penznem>AUD</penznem>
+      <vetel>224.1800</vetel>
+      <eladas>239.4800</eladas>
+    </item>
+    <item>
+      <bank>otp</bank>
+      <datum>2025-03-20 14:55:29</datum>
+      <penznem>JPY</penznem>
+      <vetel>2.4007</vetel>
+      <eladas>2.5645</eladas>
+    </item>
+    <item>
+      <bank>otp</bank>
+      <datum>2025-03-20 14:55:29</datum>
+      <penznem>CAD</penznem>
+      <vetel>248.4300</vetel>
+      <eladas>265.3900</eladas>
+    </item>
+    <item>
+      <bank>otp</bank>
+      <datum>2025-03-20 14:55:29</datum>
+      <penznem>CHF</penznem>
+      <vetel>404.1900</vetel>
+      <eladas>431.7700</eladas>
+    </item>
+    <item>
+      <bank>otp</bank>
+      <datum>2025-03-20 14:55:29</datum>
+      <penznem>USD</penznem>
+      <vetel>359.1000</vetel>
+      <eladas>379.7900</eladas>
+    </item>
+    <item>
+      <bank>otp</bank>
+      <datum>2025-03-20 14:55:29</datum>
+      <penznem>CZK</penznem>
+      <vetel>15.1300</vetel>
+      <eladas>16.8200</eladas>
+    </item>
+    <item>
+      <bank>otp</bank>
+      <datum>2025-03-20 14:55:29</datum>
+      <penznem>PLN</penznem>
+      <vetel>90.1600</vetel>
+      <eladas>100.2500</eladas>
+    </item>
+    <item>
+      <bank>otp</bank>
+      <datum>2025-03-20 14:55:29</datum>
+      <penznem>EUR</penznem>
+      <vetel>388.4900</vetel>
+      <eladas>410.8800</eladas>
+    </item>
+    <item>
+      <bank>otp</bank>
+      <datum>2025-03-20 14:55:29</datum>
+      <penznem>RON</penznem>
+      <vetel>76.0500</vetel>
+      <eladas>84.5600</eladas>
+    </item>
+    <item>
+      <bank>otp</bank>
+      <datum>2025-03-20 14:55:29</datum>
+      <penznem>BGN</penznem>
+      <vetel>193.5300</vetel>
+      <eladas>215.1900</eladas>
+    </item>
+    <item>
+      <bank>otp</bank>
+      <datum>2025-03-20 14:55:29</datum>
+      <penznem>RSD</penznem>
+      <vetel>3.2300</vetel>
+      <eladas>3.5900</eladas>
+    </item>
+    <item>
+      <bank>otp</bank>
+      <datum>2025-03-20 14:55:29</datum>
+      <penznem>RUB</penznem>
+      <vetel>4.1200</vetel>
+      <eladas>4.5800</eladas>
+    </item>
+    <item>
+      <bank>raiffeisen</bank>
+      <datum>2025-03-20 13:55:33</datum>
+      <penznem>GBP</penznem>
+      <vetel>465.1300</vetel>
+      <eladas>493.9100</eladas>
+    </item>
+    <item>
+      <bank>raiffeisen</bank>
+      <datum>2025-03-20 13:55:33</datum>
+      <penznem>AUD</penznem>
+      <vetel>225.7100</vetel>
+      <eladas>239.6700</eladas>
+    </item>
+    <item>
+      <bank>raiffeisen</bank>
+      <datum>2025-03-20 13:55:33</datum>
+      <penznem>JPY</penznem>
+      <vetel>2.4145</vetel>
+      <eladas>2.5639</eladas>
+    </item>
+    <item>
+      <bank>raiffeisen</bank>
+      <datum>2025-03-20 13:55:33</datum>
+      <penznem>CAD</penznem>
+      <vetel>249.5200</vetel>
+      <eladas>264.9600</eladas>
+    </item>
+    <item>
+      <bank>raiffeisen</bank>
+      <datum>2025-03-20 13:55:33</datum>
+      <penznem>CHF</penznem>
+      <vetel>406.4900</vetel>
+      <eladas>431.6300</eladas>
+    </item>
+    <item>
+      <bank>raiffeisen</bank>
+      <datum>2025-03-20 13:55:33</datum>
+      <penznem>USD</penznem>
+      <vetel>359.0300</vetel>
+      <eladas>381.2300</eladas>
+    </item>
+    <item>
+      <bank>raiffeisen</bank>
+      <datum>2025-03-20 13:55:33</datum>
+      <penznem>CZK</penznem>
+      <vetel>15.5700</vetel>
+      <eladas>16.5300</eladas>
+    </item>
+    <item>
+      <bank>raiffeisen</bank>
+      <datum>2025-03-20 13:55:33</datum>
+      <penznem>PLN</penznem>
+      <vetel>90.8100</vetel>
+      <eladas>100.3700</eladas>
+    </item>
+    <item>
+      <bank>raiffeisen</bank>
+      <datum>2025-03-20 13:55:33</datum>
+      <penznem>EUR</penznem>
+      <vetel>389.1500</vetel>
+      <eladas>413.2300</eladas>
+    </item>
+    <item>
+      <bank>raiffeisen</bank>
+      <datum>2025-03-20 13:55:33</datum>
+      <penznem>RON</penznem>
+      <vetel>76.6000</vetel>
+      <eladas>84.6600</eladas>
+    </item>
+    <item>
+      <bank>unicredit</bank>
+      <datum>2025-03-20 07:27:04</datum>
+      <penznem>GBP</penznem>
+      <vetel>457.9385</vetel>
+      <eladas>491.1385</eladas>
+    </item>
+    <item>
+      <bank>unicredit</bank>
+      <datum>2025-03-20 07:27:04</datum>
+      <penznem>AUD</penznem>
+      <vetel>223.5565</vetel>
+      <eladas>239.7565</eladas>
+    </item>
+    <item>
+      <bank>unicredit</bank>
+      <datum>2025-03-20 07:27:04</datum>
+      <penznem>JPY</penznem>
+      <vetel>2.3560</vetel>
+      <eladas>2.5260</eladas>
+    </item>
+    <item>
+      <bank>unicredit</bank>
+      <datum>2025-03-20 07:27:04</datum>
+      <penznem>CAD</penznem>
+      <vetel>246.5250</vetel>
+      <eladas>264.3250</eladas>
+    </item>
+    <item>
+      <bank>unicredit</bank>
+      <datum>2025-03-20 07:27:04</datum>
+      <penznem>CHF</penznem>
+      <vetel>401.0615</vetel>
+      <eladas>430.0615</eladas>
+    </item>
+    <item>
+      <bank>unicredit</bank>
+      <datum>2025-03-20 07:27:04</datum>
+      <penznem>USD</penznem>
+      <vetel>352.9565</vetel>
+      <eladas>378.5565</eladas>
+    </item>
+    <item>
+      <bank>unicredit</bank>
+      <datum>2025-03-20 07:27:04</datum>
+      <penznem>CZK</penznem>
+      <vetel>14.9885</vetel>
+      <eladas>16.9025</eladas>
+    </item>
+    <item>
+      <bank>unicredit</bank>
+      <datum>2025-03-20 07:27:04</datum>
+      <penznem>EUR</penznem>
+      <vetel>384.6152</vetel>
+      <eladas>412.5148</eladas>
+    </item>
+    <item>
+      <bank>volksbank</bank>
+      <datum>2013-10-31 07:50:22</datum>
+      <penznem>GBP</penznem>
+      <vetel>333.3000</vetel>
+      <eladas>353.9200</eladas>
+    </item>
+    <item>
+      <bank>volksbank</bank>
+      <datum>2013-10-31 07:50:22</datum>
+      <penznem>AUD</penznem>
+      <vetel>197.3800</vetel>
+      <eladas>209.5800</eladas>
+    </item>
+    <item>
+      <bank>volksbank</bank>
+      <datum>2013-10-31 07:50:22</datum>
+      <penznem>DKK</penznem>
+      <vetel>38.2400</vetel>
+      <eladas>40.6000</eladas>
+    </item>
+    <item>
+      <bank>volksbank</bank>
+      <datum>2013-10-31 07:50:22</datum>
+      <penznem>JPY</penznem>
+      <vetel>2.1156</vetel>
+      <eladas>2.2465</eladas>
+    </item>
+    <item>
+      <bank>volksbank</bank>
+      <datum>2013-10-31 07:50:22</datum>
+      <penznem>CAD</penznem>
+      <vetel>198.4600</vetel>
+      <eladas>210.7300</eladas>
+    </item>
+    <item>
+      <bank>volksbank</bank>
+      <datum>2013-10-31 07:50:22</datum>
+      <penznem>NOK</penznem>
+      <vetel>35.1900</vetel>
+      <eladas>37.3700</eladas>
+    </item>
+    <item>
+      <bank>volksbank</bank>
+      <datum>2013-10-31 07:50:22</datum>
+      <penznem>CHF</penznem>
+      <vetel>231.0500</vetel>
+      <eladas>245.3400</eladas>
+    </item>
+    <item>
+      <bank>volksbank</bank>
+      <datum>2013-10-31 07:50:22</datum>
+      <penznem>SEK</penznem>
+      <vetel>32.4200</vetel>
+      <eladas>34.4300</eladas>
+    </item>
+    <item>
+      <bank>volksbank</bank>
+      <datum>2013-10-31 07:50:22</datum>
+      <penznem>USD</penznem>
+      <vetel>208.1000</vetel>
+      <eladas>220.9800</eladas>
+    </item>
+    <item>
+      <bank>volksbank</bank>
+      <datum>2013-10-31 07:50:22</datum>
+      <penznem>CZK</penznem>
+      <vetel>10.8500</vetel>
+      <eladas>11.9900</eladas>
+    </item>
+    <item>
+      <bank>volksbank</bank>
+      <datum>2013-10-31 07:50:22</datum>
+      <penznem>PLN</penznem>
+      <vetel>66.7500</vetel>
+      <eladas>73.7800</eladas>
+    </item>
+    <item>
+      <bank>volksbank</bank>
+      <datum>2013-10-31 07:50:22</datum>
+      <penznem>EUR</penznem>
+      <vetel>285.2000</vetel>
+      <eladas>302.8400</eladas>
+    </item>
+    <item>
+      <bank>volksbank</bank>
+      <datum>2013-10-31 07:50:22</datum>
+      <penznem>HRK</penznem>
+      <vetel>36.7400</vetel>
+      <eladas>40.6100</eladas>
+    </item>
+    <item>
+      <bank>volksbank</bank>
+      <datum>2013-10-31 07:50:22</datum>
+      <penznem>RUB</penznem>
+      <vetel>6.4900</vetel>
+      <eladas>6.8900</eladas>
+    </item>
+    <item>
+      <bank>sopron</bank>
+      <datum>2022-06-29 08:40:55</datum>
+      <penznem>GBP</penznem>
+      <vetel>437.1700</vetel>
+      <eladas>485.1300</eladas>
+    </item>
+    <item>
+      <bank>sopron</bank>
+      <datum>2022-06-29 08:40:55</datum>
+      <penznem>CHF</penznem>
+      <vetel>378.5700</vetel>
+      <eladas>411.7700</eladas>
+    </item>
+    <item>
+      <bank>sopron</bank>
+      <datum>2022-06-29 08:40:55</datum>
+      <penznem>USD</penznem>
+      <vetel>362.1100</vetel>
+      <eladas>393.8700</eladas>
+    </item>
+    <item>
+      <bank>sopron</bank>
+      <datum>2022-06-29 08:40:55</datum>
+      <penznem>EUR</penznem>
+      <vetel>384.4100</vetel>
+      <eladas>409.8300</eladas>
+    </item>
+    <item>
+      <bank>fhb</bank>
+      <datum>2019-10-31 08:30:13</datum>
+      <penznem>GBP</penznem>
+      <vetel>370.7100</vetel>
+      <eladas>392.8500</eladas>
+    </item>
+    <item>
+      <bank>fhb</bank>
+      <datum>2019-10-31 08:30:13</datum>
+      <penznem>CHF</penznem>
+      <vetel>290.1300</vetel>
+      <eladas>307.4500</eladas>
+    </item>
+    <item>
+      <bank>fhb</bank>
+      <datum>2019-10-31 08:30:13</datum>
+      <penznem>USD</penznem>
+      <vetel>286.4300</vetel>
+      <eladas>303.5300</eladas>
+    </item>
+    <item>
+      <bank>fhb</bank>
+      <datum>2019-10-31 08:30:13</datum>
+      <penznem>EUR</penznem>
+      <vetel>319.8500</vetel>
+      <eladas>338.9500</eladas>
+    </item>
+    <item>
+      <bank>banco</bank>
+      <datum>2013-10-29 08:57:02</datum>
+      <penznem>GBP</penznem>
+      <vetel>328.2400</vetel>
+      <eladas>355.6000</eladas>
+    </item>
+    <item>
+      <bank>banco</bank>
+      <datum>2013-10-29 08:57:02</datum>
+      <penznem>JPY</penznem>
+      <vetel>2.0930</vetel>
+      <eladas>2.2674</eladas>
+    </item>
+    <item>
+      <bank>banco</bank>
+      <datum>2013-10-29 08:57:02</datum>
+      <penznem>CHF</penznem>
+      <vetel>227.6000</vetel>
+      <eladas>246.5700</eladas>
+    </item>
+    <item>
+      <bank>banco</bank>
+      <datum>2013-10-29 08:57:02</datum>
+      <penznem>USD</penznem>
+      <vetel>203.9500</vetel>
+      <eladas>220.9500</eladas>
+    </item>
+    <item>
+      <bank>banco</bank>
+      <datum>2013-10-29 08:57:02</datum>
+      <penznem>EUR</penznem>
+      <vetel>280.9800</vetel>
+      <eladas>304.3900</eladas>
+    </item>
+    <item>
+      <bank>mtb</bank>
+      <datum>2022-11-30 08:06:14</datum>
+      <penznem>GBP</penznem>
+      <vetel>453.2100</vetel>
+      <eladas>486.1900</eladas>
+    </item>
+    <item>
+      <bank>mtb</bank>
+      <datum>2022-11-30 08:06:14</datum>
+      <penznem>CHF</penznem>
+      <vetel>399.6800</vetel>
+      <eladas>423.5600</eladas>
+    </item>
+    <item>
+      <bank>mtb</bank>
+      <datum>2022-11-30 08:06:14</datum>
+      <penznem>USD</penznem>
+      <vetel>381.6200</vetel>
+      <eladas>403.8400</eladas>
+    </item>
+    <item>
+      <bank>mtb</bank>
+      <datum>2022-11-30 08:06:14</datum>
+      <penznem>EUR</penznem>
+      <vetel>394.7000</vetel>
+      <eladas>417.7000</eladas>
+    </item>
+    <item>
+      <bank>ing</bank>
+      <datum>2012-11-22 09:37:01</datum>
+      <penznem>GBP</penznem>
+      <vetel>338.0300</vetel>
+      <eladas>358.9300</eladas>
+    </item>
+    <item>
+      <bank>ing</bank>
+      <datum>2012-11-22 09:37:01</datum>
+      <penznem>AUD</penznem>
+      <vetel>220.0100</vetel>
+      <eladas>233.6100</eladas>
+    </item>
+    <item>
+      <bank>ing</bank>
+      <datum>2012-11-22 09:37:01</datum>
+      <penznem>DKK</penznem>
+      <vetel>36.4900</vetel>
+      <eladas>38.7500</eladas>
+    </item>
+    <item>
+      <bank>ing</bank>
+      <datum>2012-11-22 09:37:01</datum>
+      <penznem>JPY</penznem>
+      <vetel>2.5705</vetel>
+      <eladas>2.7295</eladas>
+    </item>
+    <item>
+      <bank>ing</bank>
+      <datum>2012-11-22 09:37:01</datum>
+      <penznem>CAD</penznem>
+      <vetel>212.6600</vetel>
+      <eladas>225.8200</eladas>
+    </item>
+    <item>
+      <bank>ing</bank>
+      <datum>2012-11-22 09:37:01</datum>
+      <penznem>NOK</penznem>
+      <vetel>37.1100</vetel>
+      <eladas>39.4100</eladas>
+    </item>
+    <item>
+      <bank>ing</bank>
+      <datum>2012-11-22 09:37:01</datum>
+      <penznem>CHF</penznem>
+      <vetel>225.9000</vetel>
+      <eladas>239.8800</eladas>
+    </item>
+    <item>
+      <bank>ing</bank>
+      <datum>2012-11-22 09:37:01</datum>
+      <penznem>SEK</penznem>
+      <vetel>31.5300</vetel>
+      <eladas>33.4900</eladas>
+    </item>
+    <item>
+      <bank>ing</bank>
+      <datum>2012-11-22 09:37:01</datum>
+      <penznem>USD</penznem>
+      <vetel>211.8100</vetel>
+      <eladas>224.9100</eladas>
+    </item>
+    <item>
+      <bank>ing</bank>
+      <datum>2012-11-22 09:37:01</datum>
+      <penznem>CZK</penznem>
+      <vetel>10.3500</vetel>
+      <eladas>11.6700</eladas>
+    </item>
+    <item>
+      <bank>ing</bank>
+      <datum>2012-11-22 09:37:01</datum>
+      <penznem>PLN</penznem>
+      <vetel>64.0600</vetel>
+      <eladas>72.2400</eladas>
+    </item>
+    <item>
+      <bank>ing</bank>
+      <datum>2012-11-22 09:37:01</datum>
+      <penznem>EUR</penznem>
+      <vetel>272.1400</vetel>
+      <eladas>288.9800</eladas>
+    </item>
+    <item>
+      <bank>hanwha</bank>
+      <datum>2013-12-07 08:02:03</datum>
+      <penznem>GBP</penznem>
+      <vetel>347.0000</vetel>
+      <eladas>368.0000</eladas>
+    </item>
+    <item>
+      <bank>hanwha</bank>
+      <datum>2013-12-07 08:02:03</datum>
+      <penznem>CHF</penznem>
+      <vetel>238.0000</vetel>
+      <eladas>252.0000</eladas>
+    </item>
+    <item>
+      <bank>hanwha</bank>
+      <datum>2013-12-07 08:02:03</datum>
+      <penznem>USD</penznem>
+      <vetel>212.0000</vetel>
+      <eladas>225.0000</eladas>
+    </item>
+    <item>
+      <bank>hanwha</bank>
+      <datum>2013-12-07 08:02:03</datum>
+      <penznem>EUR</penznem>
+      <vetel>291.0000</vetel>
+      <eladas>309.0000</eladas>
+    </item>
+    <item>
+      <bank>magnet</bank>
+      <datum>2024-04-03 00:00:36</datum>
+      <penznem>GBP</penznem>
+      <vetel>447.8500</vetel>
+      <eladas>475.5500</eladas>
+    </item>
+    <item>
+      <bank>magnet</bank>
+      <datum>2024-04-03 00:00:36</datum>
+      <penznem>CHF</penznem>
+      <vetel>392.8500</vetel>
+      <eladas>417.1500</eladas>
+    </item>
+    <item>
+      <bank>magnet</bank>
+      <datum>2024-04-03 00:00:36</datum>
+      <penznem>USD</penznem>
+      <vetel>356.7700</vetel>
+      <eladas>378.8300</eladas>
+    </item>
+    <item>
+      <bank>magnet</bank>
+      <datum>2024-04-03 00:00:36</datum>
+      <penznem>EUR</penznem>
+      <vetel>383.3400</vetel>
+      <eladas>407.0600</eladas>
+    </item>
+    <item>
+      <bank>granit</bank>
+      <datum>2025-03-20 14:40:19</datum>
+      <penznem>GBP</penznem>
+      <vetel>461.6000</vetel>
+      <eladas>495.0800</eladas>
+    </item>
+    <item>
+      <bank>granit</bank>
+      <datum>2025-03-20 14:40:19</datum>
+      <penznem>CHF</penznem>
+      <vetel>403.7900</vetel>
+      <eladas>433.0900</eladas>
+    </item>
+    <item>
+      <bank>granit</bank>
+      <datum>2025-03-20 14:40:19</datum>
+      <penznem>USD</penznem>
+      <vetel>356.5700</vetel>
+      <eladas>382.4300</eladas>
+    </item>
+    <item>
+      <bank>granit</bank>
+      <datum>2025-03-20 14:40:19</datum>
+      <penznem>EUR</penznem>
+      <vetel>385.9500</vetel>
+      <eladas>413.9500</eladas>
+    </item>
+    <item>
+      <bank>kinizsi</bank>
+      <datum>2019-01-31 10:35:12</datum>
+      <penznem>GBP</penznem>
+      <vetel>339.8600</vetel>
+      <eladas>381.7500</eladas>
+    </item>
+    <item>
+      <bank>kinizsi</bank>
+      <datum>2019-01-31 10:35:12</datum>
+      <penznem>CHF</penznem>
+      <vetel>263.2700</vetel>
+      <eladas>290.0400</eladas>
+    </item>
+    <item>
+      <bank>kinizsi</bank>
+      <datum>2019-01-31 10:35:12</datum>
+      <penznem>USD</penznem>
+      <vetel>262.8500</vetel>
+      <eladas>286.6300</eladas>
+    </item>
+    <item>
+      <bank>kinizsi</bank>
+      <datum>2019-01-31 10:35:12</datum>
+      <penznem>EUR</penznem>
+      <vetel>302.2500</vetel>
+      <eladas>329.6000</eladas>
+    </item>
+    <item>
+      <bank>evo</bank>
+      <datum>2014-11-18 08:30:09</datum>
+      <penznem>GBP</penznem>
+      <vetel>372.9700</vetel>
+      <eladas>396.0400</eladas>
+    </item>
+    <item>
+      <bank>evo</bank>
+      <datum>2014-11-18 08:30:09</datum>
+      <penznem>CHF</penznem>
+      <vetel>247.3500</vetel>
+      <eladas>262.6500</eladas>
+    </item>
+    <item>
+      <bank>evo</bank>
+      <datum>2014-11-18 08:30:09</datum>
+      <penznem>USD</penznem>
+      <vetel>238.2300</vetel>
+      <eladas>252.9700</eladas>
+    </item>
+    <item>
+      <bank>evo</bank>
+      <datum>2014-11-18 08:30:09</datum>
+      <penznem>EUR</penznem>
+      <vetel>297.2100</vetel>
+      <eladas>315.5900</eladas>
+    </item>
+    <item>
+      <bank>sberbank</bank>
+      <datum>2022-03-11 12:12:09</datum>
+      <penznem>GBP</penznem>
+      <vetel>439.7700</vetel>
+      <eladas>466.9700</eladas>
+    </item>
+    <item>
+      <bank>sberbank</bank>
+      <datum>2022-03-11 12:12:09</datum>
+      <penznem>AUD</penznem>
+      <vetel>246.9700</vetel>
+      <eladas>262.2500</eladas>
+    </item>
+    <item>
+      <bank>sberbank</bank>
+      <datum>2022-03-11 12:12:09</datum>
+      <penznem>DKK</penznem>
+      <vetel>49.6700</vetel>
+      <eladas>52.7400</eladas>
+    </item>
+    <item>
+      <bank>sberbank</bank>
+      <datum>2022-03-11 12:12:09</datum>
+      <penznem>JPY</penznem>
+      <vetel>2.8798</vetel>
+      <eladas>3.0579</eladas>
+    </item>
+    <item>
+      <bank>sberbank</bank>
+      <datum>2022-03-11 12:12:09</datum>
+      <penznem>CAD</penznem>
+      <vetel>263.0300</vetel>
+      <eladas>279.3000</eladas>
+    </item>
+    <item>
+      <bank>sberbank</bank>
+      <datum>2022-03-11 12:12:09</datum>
+      <penznem>NOK</penznem>
+      <vetel>37.5900</vetel>
+      <eladas>39.9200</eladas>
+    </item>
+    <item>
+      <bank>sberbank</bank>
+      <datum>2022-03-11 12:12:09</datum>
+      <penznem>CHF</penznem>
+      <vetel>360.9800</vetel>
+      <eladas>383.3100</eladas>
+    </item>
+    <item>
+      <bank>sberbank</bank>
+      <datum>2022-03-11 12:12:09</datum>
+      <penznem>SEK</penznem>
+      <vetel>34.7000</vetel>
+      <eladas>36.8500</eladas>
+    </item>
+    <item>
+      <bank>sberbank</bank>
+      <datum>2022-03-11 12:12:09</datum>
+      <penznem>USD</penznem>
+      <vetel>335.9400</vetel>
+      <eladas>356.7300</eladas>
+    </item>
+    <item>
+      <bank>sberbank</bank>
+      <datum>2022-03-11 12:12:09</datum>
+      <penznem>CZK</penznem>
+      <vetel>14.3700</vetel>
+      <eladas>15.8900</eladas>
+    </item>
+    <item>
+      <bank>sberbank</bank>
+      <datum>2022-03-11 12:12:09</datum>
+      <penznem>PLN</penznem>
+      <vetel>75.7600</vetel>
+      <eladas>83.7300</eladas>
+    </item>
+    <item>
+      <bank>sberbank</bank>
+      <datum>2022-03-11 12:12:09</datum>
+      <penznem>EUR</penznem>
+      <vetel>369.5700</vetel>
+      <eladas>392.4300</eladas>
+    </item>
+    <item>
+      <bank>sberbank</bank>
+      <datum>2022-03-11 12:12:09</datum>
+      <penznem>HRK</penznem>
+      <vetel>47.8500</vetel>
+      <eladas>52.8800</eladas>
+    </item>
+    <item>
+      <bank>sberbank</bank>
+      <datum>2022-03-11 12:12:09</datum>
+      <penznem>RUB</penznem>
+      <vetel>2.3100</vetel>
+      <eladas>2.8200</eladas>
+    </item>
+    <item>
+      <bank>szechenyi</bank>
+      <datum>2014-12-05 09:15:38</datum>
+      <penznem>GBP</penznem>
+      <vetel>364.9100</vetel>
+      <eladas>411.4900</eladas>
+    </item>
+    <item>
+      <bank>szechenyi</bank>
+      <datum>2014-12-05 09:15:38</datum>
+      <penznem>CHF</penznem>
+      <vetel>239.9800</vetel>
+      <eladas>270.6200</eladas>
+    </item>
+    <item>
+      <bank>szechenyi</bank>
+      <datum>2014-12-05 09:15:38</datum>
+      <penznem>USD</penznem>
+      <vetel>233.1200</vetel>
+      <eladas>262.8800</eladas>
+    </item>
+    <item>
+      <bank>szechenyi</bank>
+      <datum>2014-12-05 09:15:38</datum>
+      <penznem>EUR</penznem>
+      <vetel>288.5800</vetel>
+      <eladas>325.4200</eladas>
+    </item>
+    <item>
+      <bank>nhb</bank>
+      <datum>2019-03-14 14:20:07</datum>
+      <penznem>GBP</penznem>
+      <vetel>357.8300</vetel>
+      <eladas>379.9700</eladas>
+    </item>
+    <item>
+      <bank>nhb</bank>
+      <datum>2019-03-14 14:20:07</datum>
+      <penznem>CHF</penznem>
+      <vetel>268.3500</vetel>
+      <eladas>284.9500</eladas>
+    </item>
+    <item>
+      <bank>nhb</bank>
+      <datum>2019-03-14 14:20:07</datum>
+      <penznem>USD</penznem>
+      <vetel>269.4200</vetel>
+      <eladas>286.0800</eladas>
+    </item>
+    <item>
+      <bank>nhb</bank>
+      <datum>2019-03-14 14:20:07</datum>
+      <penznem>EUR</penznem>
+      <vetel>305.1600</vetel>
+      <eladas>324.0400</eladas>
+    </item>
+    <item>
+      <bank>b3takarek</bank>
+      <datum>2019-04-30 08:35:11</datum>
+      <penznem>GBP</penznem>
+      <vetel>355.5500</vetel>
+      <eladas>392.9600</eladas>
+    </item>
+    <item>
+      <bank>b3takarek</bank>
+      <datum>2019-04-30 08:35:11</datum>
+      <penznem>CHF</penznem>
+      <vetel>269.4900</vetel>
+      <eladas>297.8300</eladas>
+    </item>
+    <item>
+      <bank>b3takarek</bank>
+      <datum>2019-04-30 08:35:11</datum>
+      <penznem>USD</penznem>
+      <vetel>276.2600</vetel>
+      <eladas>302.2900</eladas>
+    </item>
+    <item>
+      <bank>b3takarek</bank>
+      <datum>2019-04-30 08:35:11</datum>
+      <penznem>EUR</penznem>
+      <vetel>308.8200</vetel>
+      <eladas>337.9100</eladas>
+    </item>
+    <item>
+      <bank>polgari</bank>
+      <datum>2025-03-20 07:50:31</datum>
+      <penznem>GBP</penznem>
+      <vetel>462.0700</vetel>
+      <eladas>488.6900</eladas>
+    </item>
+    <item>
+      <bank>polgari</bank>
+      <datum>2025-03-20 07:50:31</datum>
+      <penznem>CHF</penznem>
+      <vetel>405.5800</vetel>
+      <eladas>428.9400</eladas>
+    </item>
+    <item>
+      <bank>polgari</bank>
+      <datum>2025-03-20 07:50:31</datum>
+      <penznem>USD</penznem>
+      <vetel>355.6200</vetel>
+      <eladas>376.1000</eladas>
+    </item>
+    <item>
+      <bank>polgari</bank>
+      <datum>2025-03-20 07:50:31</datum>
+      <penznem>EUR</penznem>
+      <vetel>387.3900</vetel>
+      <eladas>409.7100</eladas>
+    </item>
+    <item>
+      <bank>dtbank</bank>
+      <datum>2023-11-30 08:27:48</datum>
+      <penznem>GBP</penznem>
+      <vetel>425.4000</vetel>
+      <eladas>449.0000</eladas>
+    </item>
+    <item>
+      <bank>dtbank</bank>
+      <datum>2023-11-30 08:27:48</datum>
+      <penznem>DKK</penznem>
+      <vetel>49.2000</vetel>
+      <eladas>52.0000</eladas>
+    </item>
+    <item>
+      <bank>dtbank</bank>
+      <datum>2023-11-30 08:27:48</datum>
+      <penznem>CAD</penznem>
+      <vetel>246.9000</vetel>
+      <eladas>260.7000</eladas>
+    </item>
+    <item>
+      <bank>dtbank</bank>
+      <datum>2023-11-30 08:27:48</datum>
+      <penznem>CHF</penznem>
+      <vetel>383.9000</vetel>
+      <eladas>405.3000</eladas>
+    </item>
+    <item>
+      <bank>dtbank</bank>
+      <datum>2023-11-30 08:27:48</datum>
+      <penznem>SEK</penznem>
+      <vetel>32.4000</vetel>
+      <eladas>34.1000</eladas>
+    </item>
+    <item>
+      <bank>dtbank</bank>
+      <datum>2023-11-30 08:27:48</datum>
+      <penznem>USD</penznem>
+      <vetel>335.2000</vetel>
+      <eladas>353.8000</eladas>
+    </item>
+    <item>
+      <bank>dtbank</bank>
+      <datum>2023-11-30 08:27:48</datum>
+      <penznem>CZK</penznem>
+      <vetel>15.2000</vetel>
+      <eladas>16.0000</eladas>
+    </item>
+    <item>
+      <bank>dtbank</bank>
+      <datum>2023-11-30 08:27:48</datum>
+      <penznem>EUR</penznem>
+      <vetel>367.9000</vetel>
+      <eladas>388.3000</eladas>
+    </item>
+    <item>
+      <bank>mbh-bb</bank>
+      <datum>2025-03-20 07:50:35</datum>
+      <penznem>GBP</penznem>
+      <vetel>460.7700</vetel>
+      <eladas>490.2500</eladas>
+    </item>
+    <item>
+      <bank>mbh-bb</bank>
+      <datum>2025-03-20 07:50:35</datum>
+      <penznem>AUD</penznem>
+      <vetel>224.7400</vetel>
+      <eladas>239.1200</eladas>
+    </item>
+    <item>
+      <bank>mbh-bb</bank>
+      <datum>2025-03-20 07:50:35</datum>
+      <penznem>DKK</penznem>
+      <vetel>51.8000</vetel>
+      <eladas>55.1200</eladas>
+    </item>
+    <item>
+      <bank>mbh-bb</bank>
+      <datum>2025-03-20 07:50:35</datum>
+      <penznem>JPY</penznem>
+      <vetel>2.3928</vetel>
+      <eladas>2.5460</eladas>
+    </item>
+    <item>
+      <bank>mbh-bb</bank>
+      <datum>2025-03-20 07:50:35</datum>
+      <penznem>CAD</penznem>
+      <vetel>247.4200</vetel>
+      <eladas>263.2600</eladas>
+    </item>
+    <item>
+      <bank>mbh-bb</bank>
+      <datum>2025-03-20 07:50:35</datum>
+      <penznem>NOK</penznem>
+      <vetel>33.5500</vetel>
+      <eladas>35.6900</eladas>
+    </item>
+    <item>
+      <bank>mbh-bb</bank>
+      <datum>2025-03-20 07:50:35</datum>
+      <penznem>CHF</penznem>
+      <vetel>404.6200</vetel>
+      <eladas>430.5000</eladas>
+    </item>
+    <item>
+      <bank>mbh-bb</bank>
+      <datum>2025-03-20 07:50:35</datum>
+      <penznem>SEK</penznem>
+      <vetel>35.0900</vetel>
+      <eladas>37.3300</eladas>
+    </item>
+    <item>
+      <bank>mbh-bb</bank>
+      <datum>2025-03-20 07:50:35</datum>
+      <penznem>USD</penznem>
+      <vetel>354.7800</vetel>
+      <eladas>377.4800</eladas>
+    </item>
+    <item>
+      <bank>mbh-bb</bank>
+      <datum>2025-03-20 07:50:35</datum>
+      <penznem>CZK</penznem>
+      <vetel>15.1500</vetel>
+      <eladas>16.7500</eladas>
+    </item>
+    <item>
+      <bank>mbh-bb</bank>
+      <datum>2025-03-20 07:50:35</datum>
+      <penznem>PLN</penznem>
+      <vetel>90.5300</vetel>
+      <eladas>100.0500</eladas>
+    </item>
+    <item>
+      <bank>mbh-bb</bank>
+      <datum>2025-03-20 07:50:35</datum>
+      <penznem>EUR</penznem>
+      <vetel>386.3900</vetel>
+      <eladas>411.1100</eladas>
+    </item>
+    <item>
+      <bank>mbh-mkb</bank>
+      <datum>2025-03-20 07:45:32</datum>
+      <penznem>GBP</penznem>
+      <vetel>460.7700</vetel>
+      <eladas>490.2500</eladas>
+    </item>
+    <item>
+      <bank>mbh-mkb</bank>
+      <datum>2025-03-20 07:45:32</datum>
+      <penznem>AUD</penznem>
+      <vetel>224.7400</vetel>
+      <eladas>239.1200</eladas>
+    </item>
+    <item>
+      <bank>mbh-mkb</bank>
+      <datum>2025-03-20 07:45:32</datum>
+      <penznem>DKK</penznem>
+      <vetel>51.8000</vetel>
+      <eladas>55.1200</eladas>
+    </item>
+    <item>
+      <bank>mbh-mkb</bank>
+      <datum>2025-03-20 07:45:32</datum>
+      <penznem>JPY</penznem>
+      <vetel>2.3928</vetel>
+      <eladas>2.5460</eladas>
+    </item>
+    <item>
+      <bank>mbh-mkb</bank>
+      <datum>2025-03-20 07:45:32</datum>
+      <penznem>CAD</penznem>
+      <vetel>247.4200</vetel>
+      <eladas>263.2600</eladas>
+    </item>
+    <item>
+      <bank>mbh-mkb</bank>
+      <datum>2025-03-20 07:45:32</datum>
+      <penznem>NOK</penznem>
+      <vetel>33.5500</vetel>
+      <eladas>35.6900</eladas>
+    </item>
+    <item>
+      <bank>mbh-mkb</bank>
+      <datum>2025-03-20 07:45:32</datum>
+      <penznem>CHF</penznem>
+      <vetel>404.6200</vetel>
+      <eladas>430.5000</eladas>
+    </item>
+    <item>
+      <bank>mbh-mkb</bank>
+      <datum>2025-03-20 07:45:32</datum>
+      <penznem>SEK</penznem>
+      <vetel>35.0900</vetel>
+      <eladas>37.3300</eladas>
+    </item>
+    <item>
+      <bank>mbh-mkb</bank>
+      <datum>2025-03-20 07:45:32</datum>
+      <penznem>USD</penznem>
+      <vetel>354.7800</vetel>
+      <eladas>377.4800</eladas>
+    </item>
+    <item>
+      <bank>mbh-mkb</bank>
+      <datum>2025-03-20 07:45:32</datum>
+      <penznem>CZK</penznem>
+      <vetel>15.1500</vetel>
+      <eladas>16.7500</eladas>
+    </item>
+    <item>
+      <bank>mbh-mkb</bank>
+      <datum>2025-03-20 07:45:32</datum>
+      <penznem>PLN</penznem>
+      <vetel>90.5300</vetel>
+      <eladas>100.0500</eladas>
+    </item>
+    <item>
+      <bank>mbh-mkb</bank>
+      <datum>2025-03-20 07:45:32</datum>
+      <penznem>EUR</penznem>
+      <vetel>386.3900</vetel>
+      <eladas>411.1100</eladas>
+    </item>
+    <item>
+      <bank>mbh-mkb</bank>
+      <datum>2025-03-20 07:45:32</datum>
+      <penznem>RON</penznem>
+      <vetel>76.1200</vetel>
+      <eladas>84.1400</eladas>
+    </item>
+    <item>
+      <bank>mbh-mkb</bank>
+      <datum>2025-03-20 07:45:32</datum>
+      <penznem>BGN</penznem>
+      <vetel>193.6900</vetel>
+      <eladas>214.0700</eladas>
+    </item>
+    <item>
+      <bank>mbh-tak</bank>
+      <datum>2025-03-20 07:50:34</datum>
+      <penznem>GBP</penznem>
+      <vetel>460.7700</vetel>
+      <eladas>490.2500</eladas>
+    </item>
+    <item>
+      <bank>mbh-tak</bank>
+      <datum>2025-03-20 07:50:34</datum>
+      <penznem>CHF</penznem>
+      <vetel>404.6200</vetel>
+      <eladas>430.5000</eladas>
+    </item>
+    <item>
+      <bank>mbh-tak</bank>
+      <datum>2025-03-20 07:50:34</datum>
+      <penznem>USD</penznem>
+      <vetel>354.7800</vetel>
+      <eladas>377.4800</eladas>
+    </item>
+    <item>
+      <bank>mbh-tak</bank>
+      <datum>2025-03-20 07:50:34</datum>
+      <penznem>EUR</penznem>
+      <vetel>386.3900</vetel>
+      <eladas>411.1100</eladas>
     </item>
 
   </valuta>
   <deviza>
     <item>
-      <bank>kh</bank>
-      <datum>2025-03-17 14:05:33</datum>
+      <bank>bb</bank>
+      <datum>2022-09-27 17:40:12</datum>
       <penznem>GBP</penznem>
-      <vetel>473.6600</vetel>
-      <eladas>479.3800</eladas>
+      <vetel>452.5000</vetel>
+      <eladas>463.5000</eladas>
     </item>
     <item>
-      <bank>kh</bank>
-      <datum>2025-03-17 14:05:33</datum>
+      <bank>bb</bank>
+      <datum>2022-09-27 17:40:12</datum>
       <penznem>AUD</penznem>
-      <vetel>230.6400</vetel>
-      <eladas>233.4200</eladas>
+      <vetel>271.8300</vetel>
+      <eladas>278.4300</eladas>
+    </item>
+    <item>
+      <bank>bb</bank>
+      <datum>2022-09-27 17:40:12</datum>
+      <penznem>DKK</penznem>
+      <vetel>54.2300</vetel>
+      <eladas>55.5500</eladas>
+    </item>
+    <item>
+      <bank>bb</bank>
+      <datum>2022-09-27 17:40:12</datum>
+      <penznem>JPY</penznem>
+      <vetel>2.9027</vetel>
+      <eladas>2.9733</eladas>
+    </item>
+    <item>
+      <bank>bb</bank>
+      <datum>2022-09-27 17:40:12</datum>
+      <penznem>CAD</penznem>
+      <vetel>306.0100</vetel>
+      <eladas>313.4500</eladas>
+    </item>
+    <item>
+      <bank>bb</bank>
+      <datum>2022-09-27 17:40:12</datum>
+      <penznem>NOK</penznem>
+      <vetel>38.9900</vetel>
+      <eladas>39.9300</eladas>
+    </item>
+    <item>
+      <bank>bb</bank>
+      <datum>2022-09-27 17:40:12</datum>
+      <penznem>CHF</penznem>
+      <vetel>424.0100</vetel>
+      <eladas>434.3100</eladas>
+    </item>
+    <item>
+      <bank>bb</bank>
+      <datum>2022-09-27 17:40:12</datum>
+      <penznem>SEK</penznem>
+      <vetel>37.1000</vetel>
+      <eladas>38.0000</eladas>
+    </item>
+    <item>
+      <bank>bb</bank>
+      <datum>2022-09-27 17:40:12</datum>
+      <penznem>USD</penznem>
+      <vetel>420.1100</vetel>
+      <eladas>428.5900</eladas>
+    </item>
+    <item>
+      <bank>bb</bank>
+      <datum>2022-09-27 17:40:12</datum>
+      <penznem>CZK</penznem>
+      <vetel>16.3600</vetel>
+      <eladas>16.7600</eladas>
+    </item>
+    <item>
+      <bank>bb</bank>
+      <datum>2022-09-27 17:40:12</datum>
+      <penznem>PLN</penznem>
+      <vetel>84.5600</vetel>
+      <eladas>86.6200</eladas>
+    </item>
+    <item>
+      <bank>bb</bank>
+      <datum>2022-09-27 17:40:12</datum>
+      <penznem>EUR</penznem>
+      <vetel>404.1200</vetel>
+      <eladas>412.2800</eladas>
+    </item>
+    <item>
+      <bank>bb</bank>
+      <datum>2022-09-27 17:40:12</datum>
+      <penznem>RON</penznem>
+      <vetel>81.5800</vetel>
+      <eladas>83.5600</eladas>
+    </item>
+    <item>
+      <bank>allianz</bank>
+      <datum>2011-03-31 06:40:03</datum>
+      <penznem>GBP</penznem>
+      <vetel>298.4000</vetel>
+      <eladas>307.4800</eladas>
+    </item>
+    <item>
+      <bank>allianz</bank>
+      <datum>2011-03-31 06:40:03</datum>
+      <penznem>CHF</penznem>
+      <vetel>202.1600</vetel>
+      <eladas>208.3200</eladas>
+    </item>
+    <item>
+      <bank>allianz</bank>
+      <datum>2011-03-31 06:40:03</datum>
+      <penznem>USD</penznem>
+      <vetel>185.4000</vetel>
+      <eladas>191.0400</eladas>
+    </item>
+    <item>
+      <bank>allianz</bank>
+      <datum>2011-03-31 06:40:03</datum>
+      <penznem>EUR</penznem>
+      <vetel>262.1900</vetel>
+      <eladas>270.1700</eladas>
+    </item>
+    <item>
+      <bank>cib</bank>
+      <datum>2025-03-20 12:14:04</datum>
+      <penznem>GBP</penznem>
+      <vetel>467.3700</vetel>
+      <eladas>490.8500</eladas>
+    </item>
+    <item>
+      <bank>cib</bank>
+      <datum>2025-03-20 12:14:04</datum>
+      <penznem>AUD</penznem>
+      <vetel>227.9500</vetel>
+      <eladas>239.3900</eladas>
+    </item>
+    <item>
+      <bank>cib</bank>
+      <datum>2025-03-20 12:14:04</datum>
+      <penznem>DKK</penznem>
+      <vetel>52.5300</vetel>
+      <eladas>55.1700</eladas>
+    </item>
+    <item>
+      <bank>cib</bank>
+      <datum>2025-03-20 12:14:04</datum>
+      <penznem>JPY</penznem>
+      <vetel>2.4269</vetel>
+      <eladas>2.5489</eladas>
+    </item>
+    <item>
+      <bank>cib</bank>
+      <datum>2025-03-20 12:14:04</datum>
+      <penznem>CAD</penznem>
+      <vetel>250.9500</vetel>
+      <eladas>263.5500</eladas>
+    </item>
+    <item>
+      <bank>cib</bank>
+      <datum>2025-03-20 12:14:04</datum>
+      <penznem>NOK</penznem>
+      <vetel>34.0400</vetel>
+      <eladas>35.7600</eladas>
+    </item>
+    <item>
+      <bank>cib</bank>
+      <datum>2025-03-20 12:14:04</datum>
+      <penznem>CHF</penznem>
+      <vetel>411.4200</vetel>
+      <eladas>429.9200</eladas>
+    </item>
+    <item>
+      <bank>cib</bank>
+      <datum>2025-03-20 12:14:04</datum>
+      <penznem>SEK</penznem>
+      <vetel>35.6100</vetel>
+      <eladas>37.3900</eladas>
+    </item>
+    <item>
+      <bank>cib</bank>
+      <datum>2025-03-20 12:14:04</datum>
+      <penznem>USD</penznem>
+      <vetel>359.7600</vetel>
+      <eladas>377.8400</eladas>
+    </item>
+    <item>
+      <bank>cib</bank>
+      <datum>2025-03-20 12:14:04</datum>
+      <penznem>CZK</penznem>
+      <vetel>15.6800</vetel>
+      <eladas>16.4600</eladas>
+    </item>
+    <item>
+      <bank>cib</bank>
+      <datum>2025-03-20 12:14:04</datum>
+      <penznem>PLN</penznem>
+      <vetel>93.6600</vetel>
+      <eladas>98.3600</eladas>
+    </item>
+    <item>
+      <bank>cib</bank>
+      <datum>2025-03-20 12:14:04</datum>
+      <penznem>EUR</penznem>
+      <vetel>389.9200</vetel>
+      <eladas>409.5000</eladas>
+    </item>
+    <item>
+      <bank>cib</bank>
+      <datum>2025-03-20 12:14:04</datum>
+      <penznem>RON</penznem>
+      <vetel>78.3400</vetel>
+      <eladas>83.1200</eladas>
+    </item>
+    <item>
+      <bank>citybank</bank>
+      <datum>2014-12-31 09:15:04</datum>
+      <penznem>GBP</penznem>
+      <vetel>386.6900</vetel>
+      <eladas>421.5200</eladas>
+    </item>
+    <item>
+      <bank>citybank</bank>
+      <datum>2014-12-31 09:15:04</datum>
+      <penznem>AUD</penznem>
+      <vetel>203.3700</vetel>
+      <eladas>221.6600</eladas>
+    </item>
+    <item>
+      <bank>citybank</bank>
+      <datum>2014-12-31 09:15:04</datum>
+      <penznem>DKK</penznem>
+      <vetel>40.6230</vetel>
+      <eladas>44.1540</eladas>
+    </item>
+    <item>
+      <bank>citybank</bank>
+      <datum>2014-12-31 09:15:04</datum>
+      <penznem>CAD</penznem>
+      <vetel>214.3300</vetel>
+      <eladas>233.5800</eladas>
+    </item>
+    <item>
+      <bank>citybank</bank>
+      <datum>2014-12-31 09:15:04</datum>
+      <penznem>NOK</penznem>
+      <vetel>33.4900</vetel>
+      <eladas>36.6020</eladas>
+    </item>
+    <item>
+      <bank>citybank</bank>
+      <datum>2014-12-31 09:15:04</datum>
+      <penznem>CHF</penznem>
+      <vetel>251.4900</vetel>
+      <eladas>273.3900</eladas>
+    </item>
+    <item>
+      <bank>citybank</bank>
+      <datum>2014-12-31 09:15:04</datum>
+      <penznem>SEK</penznem>
+      <vetel>32.1420</vetel>
+      <eladas>35.0510</eladas>
+    </item>
+    <item>
+      <bank>citybank</bank>
+      <datum>2014-12-31 09:15:04</datum>
+      <penznem>PLN</penznem>
+      <vetel>70.5900</vetel>
+      <eladas>76.9640</eladas>
+    </item>
+    <item>
+      <bank>citybank</bank>
+      <datum>2014-12-31 09:15:04</datum>
+      <penznem>EUR</penznem>
+      <vetel>302.0600</vetel>
+      <eladas>328.3900</eladas>
+    </item>
+    <item>
+      <bank>citybank</bank>
+      <datum>2014-12-31 09:15:04</datum>
+      <penznem>RON</penznem>
+      <vetel>67.4000</vetel>
+      <eladas>73.3370</eladas>
+    </item>
+    <item>
+      <bank>commerz</bank>
+      <datum>2022-11-30 15:15:03</datum>
+      <penznem>GBP</penznem>
+      <vetel>469.5200</vetel>
+      <eladas>477.7600</eladas>
+    </item>
+    <item>
+      <bank>commerz</bank>
+      <datum>2022-11-30 15:15:03</datum>
+      <penznem>DKK</penznem>
+      <vetel>54.5500</vetel>
+      <eladas>55.5100</eladas>
+    </item>
+    <item>
+      <bank>commerz</bank>
+      <datum>2022-11-30 15:15:03</datum>
+      <penznem>JPY</penznem>
+      <vetel>2.8056</vetel>
+      <eladas>2.8616</eladas>
+    </item>
+    <item>
+      <bank>commerz</bank>
+      <datum>2022-11-30 15:15:03</datum>
+      <penznem>CAD</penznem>
+      <vetel>289.8300</vetel>
+      <eladas>294.3900</eladas>
+    </item>
+    <item>
+      <bank>commerz</bank>
+      <datum>2022-11-30 15:15:03</datum>
+      <penznem>NOK</penznem>
+      <vetel>39.5100</vetel>
+      <eladas>40.2300</eladas>
+    </item>
+    <item>
+      <bank>commerz</bank>
+      <datum>2022-11-30 15:15:03</datum>
+      <penznem>CHF</penznem>
+      <vetel>411.9100</vetel>
+      <eladas>418.0700</eladas>
+    </item>
+    <item>
+      <bank>commerz</bank>
+      <datum>2022-11-30 15:15:03</datum>
+      <penznem>SEK</penznem>
+      <vetel>37.0500</vetel>
+      <eladas>37.7700</eladas>
+    </item>
+    <item>
+      <bank>commerz</bank>
+      <datum>2022-11-30 15:15:03</datum>
+      <penznem>USD</penznem>
+      <vetel>392.2800</vetel>
+      <eladas>398.1200</eladas>
+    </item>
+    <item>
+      <bank>commerz</bank>
+      <datum>2022-11-30 15:15:03</datum>
+      <penznem>CZK</penznem>
+      <vetel>16.6500</vetel>
+      <eladas>16.9700</eladas>
+    </item>
+    <item>
+      <bank>commerz</bank>
+      <datum>2022-11-30 15:15:03</datum>
+      <penznem>PLN</penznem>
+      <vetel>86.7700</vetel>
+      <eladas>88.6100</eladas>
+    </item>
+    <item>
+      <bank>commerz</bank>
+      <datum>2022-11-30 15:15:03</datum>
+      <penznem>EUR</penznem>
+      <vetel>405.6000</vetel>
+      <eladas>412.8000</eladas>
+    </item>
+    <item>
+      <bank>commerz</bank>
+      <datum>2022-11-30 15:15:03</datum>
+      <penznem>HRK</penznem>
+      <vetel>53.7200</vetel>
+      <eladas>54.6800</eladas>
+    </item>
+    <item>
+      <bank>commerz</bank>
+      <datum>2022-11-30 15:15:03</datum>
+      <penznem>RON</penznem>
+      <vetel>82.2500</vetel>
+      <eladas>84.0100</eladas>
+    </item>
+    <item>
+      <bank>commerz</bank>
+      <datum>2022-11-30 15:15:03</datum>
+      <penznem>TRY</penznem>
+      <vetel>19.6000</vetel>
+      <eladas>22.8000</eladas>
+    </item>
+    <item>
+      <bank>commerz</bank>
+      <datum>2022-11-30 15:15:03</datum>
+      <penznem>BGN</penznem>
+      <vetel>207.3800</vetel>
+      <eladas>211.0600</eladas>
+    </item>
+    <item>
+      <bank>commerz</bank>
+      <datum>2022-11-30 15:15:03</datum>
+      <penznem>RSD</penznem>
+      <vetel>3.4500</vetel>
+      <eladas>3.5300</eladas>
+    </item>
+    <item>
+      <bank>erste</bank>
+      <datum>2025-03-20 16:20:18</datum>
+      <penznem>GBP</penznem>
+      <vetel>458.7200</vetel>
+      <eladas>496.9400</eladas>
+    </item>
+    <item>
+      <bank>erste</bank>
+      <datum>2025-03-20 16:20:18</datum>
+      <penznem>AUD</penznem>
+      <vetel>222.6600</vetel>
+      <eladas>241.2200</eladas>
+    </item>
+    <item>
+      <bank>erste</bank>
+      <datum>2025-03-20 16:20:18</datum>
+      <penznem>DKK</penznem>
+      <vetel>51.3900</vetel>
+      <eladas>55.6700</eladas>
+    </item>
+    <item>
+      <bank>erste</bank>
+      <datum>2025-03-20 16:20:18</datum>
+      <penznem>JPY</penznem>
+      <vetel>2.3791</vetel>
+      <eladas>2.5773</eladas>
+    </item>
+    <item>
+      <bank>erste</bank>
+      <datum>2025-03-20 16:20:18</datum>
+      <penznem>CAD</penznem>
+      <vetel>246.5800</vetel>
+      <eladas>267.1200</eladas>
+    </item>
+    <item>
+      <bank>erste</bank>
+      <datum>2025-03-20 16:20:18</datum>
+      <penznem>NOK</penznem>
+      <vetel>33.4200</vetel>
+      <eladas>36.2000</eladas>
+    </item>
+    <item>
+      <bank>erste</bank>
+      <datum>2025-03-20 16:20:18</datum>
+      <penznem>CHF</penznem>
+      <vetel>400.3500</vetel>
+      <eladas>433.7100</eladas>
+    </item>
+    <item>
+      <bank>erste</bank>
+      <datum>2025-03-20 16:20:18</datum>
+      <penznem>SEK</penznem>
+      <vetel>34.8000</vetel>
+      <eladas>37.7000</eladas>
+    </item>
+    <item>
+      <bank>erste</bank>
+      <datum>2025-03-20 16:20:18</datum>
+      <penznem>USD</penznem>
+      <vetel>353.9000</vetel>
+      <eladas>383.4000</eladas>
+    </item>
+    <item>
+      <bank>erste</bank>
+      <datum>2025-03-20 16:20:18</datum>
+      <penznem>CZK</penznem>
+      <vetel>15.3200</vetel>
+      <eladas>16.6000</eladas>
+    </item>
+    <item>
+      <bank>erste</bank>
+      <datum>2025-03-20 16:20:18</datum>
+      <penznem>PLN</penznem>
+      <vetel>91.2900</vetel>
+      <eladas>98.8900</eladas>
+    </item>
+    <item>
+      <bank>erste</bank>
+      <datum>2025-03-20 16:20:18</datum>
+      <penznem>EUR</penznem>
+      <vetel>383.3400</vetel>
+      <eladas>415.2800</eladas>
+    </item>
+    <item>
+      <bank>erste</bank>
+      <datum>2025-03-20 16:20:18</datum>
+      <penznem>HRK</penznem>
+      <vetel>51.1749</vetel>
+      <eladas>55.4395</eladas>
+    </item>
+    <item>
+      <bank>erste</bank>
+      <datum>2025-03-20 16:20:18</datum>
+      <penznem>RON</penznem>
+      <vetel>77.0200</vetel>
+      <eladas>83.4400</eladas>
+    </item>
+    <item>
+      <bank>erste</bank>
+      <datum>2025-03-20 16:20:18</datum>
+      <penznem>TRY</penznem>
+      <vetel>9.3400</vetel>
+      <eladas>10.1200</eladas>
+    </item>
+    <item>
+      <bank>erste</bank>
+      <datum>2025-03-20 16:20:18</datum>
+      <penznem>BGN</penznem>
+      <vetel>195.9900</vetel>
+      <eladas>212.3300</eladas>
+    </item>
+    <item>
+      <bank>kdb</bank>
+      <datum>2025-03-20 11:00:23</datum>
+      <penznem>GBP</penznem>
+      <vetel>474.2400</vetel>
+      <eladas>479.0000</eladas>
+    </item>
+    <item>
+      <bank>kdb</bank>
+      <datum>2025-03-20 11:00:23</datum>
+      <penznem>AUD</penznem>
+      <vetel>229.5200</vetel>
+      <eladas>233.6800</eladas>
+    </item>
+    <item>
+      <bank>kdb</bank>
+      <datum>2025-03-20 11:00:23</datum>
+      <penznem>DKK</penznem>
+      <vetel>53.0500</vetel>
+      <eladas>54.0100</eladas>
+    </item>
+    <item>
+      <bank>kdb</bank>
+      <datum>2025-03-20 11:00:23</datum>
+      <penznem>JPY</penznem>
+      <vetel>2.4570</vetel>
+      <eladas>2.4916</eladas>
+    </item>
+    <item>
+      <bank>kdb</bank>
+      <datum>2025-03-20 11:00:23</datum>
+      <penznem>CAD</penznem>
+      <vetel>253.7500</vetel>
+      <eladas>258.3500</eladas>
+    </item>
+    <item>
+      <bank>kdb</bank>
+      <datum>2025-03-20 11:00:23</datum>
+      <penznem>NOK</penznem>
+      <vetel>34.2900</vetel>
+      <eladas>34.9100</eladas>
+    </item>
+    <item>
+      <bank>kdb</bank>
+      <datum>2025-03-20 11:00:23</datum>
+      <penznem>CHF</penznem>
+      <vetel>414.7900</vetel>
+      <eladas>419.7900</eladas>
+    </item>
+    <item>
+      <bank>kdb</bank>
+      <datum>2025-03-20 11:00:23</datum>
+      <penznem>SEK</penznem>
+      <vetel>35.8300</vetel>
+      <eladas>36.4900</eladas>
+    </item>
+    <item>
+      <bank>kdb</bank>
+      <datum>2025-03-20 11:00:23</datum>
+      <penznem>USD</penznem>
+      <vetel>365.7800</vetel>
+      <eladas>370.2000</eladas>
+    </item>
+    <item>
+      <bank>kdb</bank>
+      <datum>2025-03-20 11:00:23</datum>
+      <penznem>CZK</penznem>
+      <vetel>15.4000</vetel>
+      <eladas>16.5200</eladas>
+    </item>
+    <item>
+      <bank>kdb</bank>
+      <datum>2025-03-20 11:00:23</datum>
+      <penznem>PLN</penznem>
+      <vetel>92.7500</vetel>
+      <eladas>97.5100</eladas>
+    </item>
+    <item>
+      <bank>kdb</bank>
+      <datum>2025-03-20 11:00:23</datum>
+      <penznem>EUR</penznem>
+      <vetel>396.9200</vetel>
+      <eladas>401.7200</eladas>
+    </item>
+    <item>
+      <bank>kdb</bank>
+      <datum>2025-03-20 11:00:23</datum>
+      <penznem>RON</penznem>
+      <vetel>78.2200</vetel>
+      <eladas>82.2400</eladas>
     </item>
     <item>
       <bank>kh</bank>
-      <datum>2025-03-17 14:05:33</datum>
+      <datum>2025-03-20 17:00:25</datum>
+      <penznem>GBP</penznem>
+      <vetel>467.5400</vetel>
+      <eladas>486.6200</eladas>
+    </item>
+    <item>
+      <bank>kh</bank>
+      <datum>2025-03-20 17:00:25</datum>
+      <penznem>AUD</penznem>
+      <vetel>228.7700</vetel>
+      <eladas>234.5700</eladas>
+    </item>
+    <item>
+      <bank>kh</bank>
+      <datum>2025-03-20 17:00:25</datum>
+      <penznem>DKK</penznem>
+      <vetel>52.8100</vetel>
+      <eladas>54.1500</eladas>
+    </item>
+    <item>
+      <bank>kh</bank>
+      <datum>2025-03-20 17:00:25</datum>
+      <penznem>JPY</penznem>
+      <vetel>2.4214</vetel>
+      <eladas>2.5202</eladas>
+    </item>
+    <item>
+      <bank>kh</bank>
+      <datum>2025-03-20 17:00:25</datum>
+      <penznem>CAD</penznem>
+      <vetel>253.4400</vetel>
+      <eladas>259.8600</eladas>
+    </item>
+    <item>
+      <bank>kh</bank>
+      <datum>2025-03-20 17:00:25</datum>
+      <penznem>NOK</penznem>
+      <vetel>34.3500</vetel>
+      <eladas>35.2100</eladas>
+    </item>
+    <item>
+      <bank>kh</bank>
+      <datum>2025-03-20 17:00:25</datum>
+      <penznem>CHF</penznem>
+      <vetel>408.3100</vetel>
+      <eladas>424.9700</eladas>
+    </item>
+    <item>
+      <bank>kh</bank>
+      <datum>2025-03-20 17:00:25</datum>
+      <penznem>SEK</penznem>
+      <vetel>35.8000</vetel>
+      <eladas>36.7000</eladas>
+    </item>
+    <item>
+      <bank>kh</bank>
+      <datum>2025-03-20 17:00:25</datum>
+      <penznem>USD</penznem>
+      <vetel>360.4000</vetel>
+      <eladas>375.1200</eladas>
+    </item>
+    <item>
+      <bank>kh</bank>
+      <datum>2025-03-20 17:00:25</datum>
+      <penznem>CZK</penznem>
+      <vetel>15.4700</vetel>
+      <eladas>16.4300</eladas>
+    </item>
+    <item>
+      <bank>kh</bank>
+      <datum>2025-03-20 17:00:25</datum>
+      <penznem>PLN</penznem>
+      <vetel>92.2100</vetel>
+      <eladas>97.9100</eladas>
+    </item>
+    <item>
+      <bank>kh</bank>
+      <datum>2025-03-20 17:00:25</datum>
+      <penznem>EUR</penznem>
+      <vetel>390.1100</vetel>
+      <eladas>407.6700</eladas>
+    </item>
+    <item>
+      <bank>kh</bank>
+      <datum>2025-03-20 17:00:25</datum>
+      <penznem>RON</penznem>
+      <vetel>78.9500</vetel>
+      <eladas>81.3500</eladas>
+    </item>
+    <item>
+      <bank>kh</bank>
+      <datum>2025-03-20 17:00:25</datum>
+      <penznem>TRY</penznem>
+      <vetel>9.5100</vetel>
+      <eladas>9.7900</eladas>
+    </item>
+    <item>
+      <bank>kh</bank>
+      <datum>2025-03-20 17:00:25</datum>
+      <penznem>RUB</penznem>
+      <vetel>4.2000</vetel>
+      <eladas>4.4600</eladas>
+    </item>
+    <item>
+      <bank>mkb</bank>
+      <datum>2023-04-28 13:40:40</datum>
+      <penznem>GBP</penznem>
+      <vetel>421.4200</vetel>
+      <eladas>429.0800</eladas>
+    </item>
+    <item>
+      <bank>mkb</bank>
+      <datum>2023-04-28 13:40:40</datum>
+      <penznem>AUD</penznem>
+      <vetel>222.8300</vetel>
+      <eladas>226.8700</eladas>
+    </item>
+    <item>
+      <bank>mkb</bank>
+      <datum>2023-04-28 13:40:40</datum>
+      <penznem>DKK</penznem>
+      <vetel>49.8600</vetel>
+      <eladas>50.7600</eladas>
+    </item>
+    <item>
+      <bank>mkb</bank>
+      <datum>2023-04-28 13:40:40</datum>
+      <penznem>JPY</penznem>
+      <vetel>2.4953</vetel>
+      <eladas>2.5407</eladas>
+    </item>
+    <item>
+      <bank>mkb</bank>
+      <datum>2023-04-28 13:40:40</datum>
+      <penznem>CAD</penznem>
+      <vetel>247.6400</vetel>
+      <eladas>252.1400</eladas>
+    </item>
+    <item>
+      <bank>mkb</bank>
+      <datum>2023-04-28 13:40:40</datum>
+      <penznem>NOK</penznem>
+      <vetel>31.6800</vetel>
+      <eladas>32.2600</eladas>
+    </item>
+    <item>
+      <bank>mkb</bank>
+      <datum>2023-04-28 13:40:40</datum>
+      <penznem>CHF</penznem>
+      <vetel>377.2400</vetel>
+      <eladas>384.1000</eladas>
+    </item>
+    <item>
+      <bank>mkb</bank>
+      <datum>2023-04-28 13:40:40</datum>
+      <penznem>SEK</penznem>
+      <vetel>32.7100</vetel>
+      <eladas>33.3100</eladas>
+    </item>
+    <item>
+      <bank>mkb</bank>
+      <datum>2023-04-28 13:40:40</datum>
+      <penznem>USD</penznem>
+      <vetel>334.3400</vetel>
+      <eladas>340.4200</eladas>
+    </item>
+    <item>
+      <bank>mkb</bank>
+      <datum>2023-04-28 13:40:40</datum>
+      <penznem>CZK</penznem>
+      <vetel>15.8200</vetel>
+      <eladas>16.1000</eladas>
+    </item>
+    <item>
+      <bank>mkb</bank>
+      <datum>2023-04-28 13:40:40</datum>
+      <penznem>PLN</penznem>
+      <vetel>80.9800</vetel>
+      <eladas>82.4600</eladas>
+    </item>
+    <item>
+      <bank>mkb</bank>
+      <datum>2023-04-28 13:40:40</datum>
+      <penznem>EUR</penznem>
+      <vetel>368.9800</vetel>
+      <eladas>375.6800</eladas>
+    </item>
+    <item>
+      <bank>mkb</bank>
+      <datum>2023-04-28 13:40:40</datum>
+      <penznem>RON</penznem>
+      <vetel>74.7500</vetel>
+      <eladas>76.1100</eladas>
+    </item>
+    <item>
+      <bank>mkb</bank>
+      <datum>2023-04-28 13:40:40</datum>
+      <penznem>TRY</penznem>
+      <vetel>17.5400</vetel>
+      <eladas>17.8600</eladas>
+    </item>
+    <item>
+      <bank>mkb</bank>
+      <datum>2023-04-28 13:40:40</datum>
+      <penznem>BGN</penznem>
+      <vetel>188.6600</vetel>
+      <eladas>192.0800</eladas>
+    </item>
+    <item>
+      <bank>mkb</bank>
+      <datum>2023-04-28 13:40:40</datum>
+      <penznem>RUB</penznem>
+      <vetel>4.2000</vetel>
+      <eladas>4.2800</eladas>
+    </item>
+    <item>
+      <bank>oberbank</bank>
+      <datum>2025-03-20 13:10:28</datum>
+      <penznem>GBP</penznem>
+      <vetel>474.3900</vetel>
+      <eladas>481.3900</eladas>
+    </item>
+    <item>
+      <bank>oberbank</bank>
+      <datum>2025-03-20 13:10:28</datum>
+      <penznem>AUD</penznem>
+      <vetel>229.6100</vetel>
+      <eladas>233.6100</eladas>
+    </item>
+    <item>
+      <bank>oberbank</bank>
+      <datum>2025-03-20 13:10:28</datum>
       <penznem>DKK</penznem>
       <vetel>53.0800</vetel>
-      <eladas>53.7200</eladas>
+      <eladas>54.0800</eladas>
     </item>
     <item>
-      <bank>kh</bank>
-      <datum>2025-03-17 14:05:33</datum>
+      <bank>oberbank</bank>
+      <datum>2025-03-20 13:10:28</datum>
       <penznem>JPY</penznem>
-      <vetel>2.4566</vetel>
-      <eladas>2.4862</eladas>
+      <vetel>2.4537</vetel>
+      <eladas>2.5137</eladas>
     </item>
     <item>
-      <bank>kh</bank>
-      <datum>2025-03-17 14:05:33</datum>
+      <bank>oberbank</bank>
+      <datum>2025-03-20 13:10:28</datum>
       <penznem>CAD</penznem>
-      <vetel>253.8800</vetel>
-      <eladas>256.9400</eladas>
+      <vetel>254.1900</vetel>
+      <eladas>258.1900</eladas>
     </item>
     <item>
-      <bank>kh</bank>
-      <datum>2025-03-17 14:05:33</datum>
+      <bank>oberbank</bank>
+      <datum>2025-03-20 13:10:28</datum>
       <penznem>NOK</penznem>
-      <vetel>34.3600</vetel>
-      <eladas>34.7800</eladas>
+      <vetel>34.3900</vetel>
+      <eladas>35.0900</eladas>
     </item>
     <item>
-      <bank>kh</bank>
-      <datum>2025-03-17 14:05:33</datum>
+      <bank>oberbank</bank>
+      <datum>2025-03-20 13:10:28</datum>
       <penznem>CHF</penznem>
-      <vetel>411.6600</vetel>
-      <eladas>416.6200</eladas>
+      <vetel>415.3600</vetel>
+      <eladas>421.3600</eladas>
     </item>
     <item>
-      <bank>kh</bank>
-      <datum>2025-03-17 14:05:33</datum>
+      <bank>oberbank</bank>
+      <datum>2025-03-20 13:10:28</datum>
       <penznem>SEK</penznem>
-      <vetel>36.0600</vetel>
-      <eladas>36.5000</eladas>
+      <vetel>35.8700</vetel>
+      <eladas>36.5700</eladas>
     </item>
     <item>
-      <bank>kh</bank>
-      <datum>2025-03-17 14:05:33</datum>
+      <bank>oberbank</bank>
+      <datum>2025-03-20 13:10:28</datum>
       <penznem>USD</penznem>
-      <vetel>363.5000</vetel>
-      <eladas>367.8800</eladas>
+      <vetel>366.2600</vetel>
+      <eladas>371.2600</eladas>
     </item>
     <item>
-      <bank>kh</bank>
-      <datum>2025-03-17 14:05:33</datum>
+      <bank>oberbank</bank>
+      <datum>2025-03-20 13:10:28</datum>
       <penznem>CZK</penznem>
-      <vetel>15.7600</vetel>
-      <eladas>16.2400</eladas>
+      <vetel>15.8700</vetel>
+      <eladas>16.1100</eladas>
     </item>
     <item>
-      <bank>kh</bank>
-      <datum>2025-03-17 14:05:33</datum>
+      <bank>oberbank</bank>
+      <datum>2025-03-20 13:10:28</datum>
       <penznem>PLN</penznem>
-      <vetel>94.1900</vetel>
-      <eladas>97.0500</eladas>
+      <vetel>94.4100</vetel>
+      <eladas>96.3100</eladas>
     </item>
     <item>
-      <bank>kh</bank>
-      <datum>2025-03-17 14:05:33</datum>
+      <bank>oberbank</bank>
+      <datum>2025-03-20 13:10:28</datum>
       <penznem>EUR</penznem>
-      <vetel>396.0400</vetel>
-      <eladas>400.8200</eladas>
+      <vetel>396.6600</vetel>
+      <eladas>402.6600</eladas>
     </item>
     <item>
-      <bank>kh</bank>
-      <datum>2025-03-17 14:05:33</datum>
+      <bank>oberbank</bank>
+      <datum>2025-03-20 13:10:28</datum>
       <penznem>RON</penznem>
-      <vetel>79.5500</vetel>
-      <eladas>80.5100</eladas>
+      <vetel>79.4100</vetel>
+      <eladas>81.3100</eladas>
     </item>
     <item>
-      <bank>kh</bank>
-      <datum>2025-03-17 14:05:33</datum>
+      <bank>otp</bank>
+      <datum>2025-03-20 14:55:32</datum>
+      <penznem>GBP</penznem>
+      <vetel>472.3100</vetel>
+      <eladas>484.2700</eladas>
+    </item>
+    <item>
+      <bank>otp</bank>
+      <datum>2025-03-20 14:55:32</datum>
+      <penznem>AUD</penznem>
+      <vetel>228.9300</vetel>
+      <eladas>234.7200</eladas>
+    </item>
+    <item>
+      <bank>otp</bank>
+      <datum>2025-03-20 14:55:32</datum>
+      <penznem>DKK</penznem>
+      <vetel>52.9100</vetel>
+      <eladas>54.2500</eladas>
+    </item>
+    <item>
+      <bank>otp</bank>
+      <datum>2025-03-20 14:55:32</datum>
+      <penznem>JPY</penznem>
+      <vetel>2.4516</vetel>
+      <eladas>2.5136</eladas>
+    </item>
+    <item>
+      <bank>otp</bank>
+      <datum>2025-03-20 14:55:32</datum>
+      <penznem>CAD</penznem>
+      <vetel>253.7000</vetel>
+      <eladas>260.1200</eladas>
+    </item>
+    <item>
+      <bank>otp</bank>
+      <datum>2025-03-20 14:55:32</datum>
+      <penznem>NOK</penznem>
+      <vetel>34.3300</vetel>
+      <eladas>35.2000</eladas>
+    </item>
+    <item>
+      <bank>otp</bank>
+      <datum>2025-03-20 14:55:32</datum>
+      <penznem>CHF</penznem>
+      <vetel>412.7600</vetel>
+      <eladas>423.2000</eladas>
+    </item>
+    <item>
+      <bank>otp</bank>
+      <datum>2025-03-20 14:55:32</datum>
+      <penznem>SEK</penznem>
+      <vetel>35.7800</vetel>
+      <eladas>36.6800</eladas>
+    </item>
+    <item>
+      <bank>otp</bank>
+      <datum>2025-03-20 14:55:32</datum>
+      <penznem>USD</penznem>
+      <vetel>364.8300</vetel>
+      <eladas>374.0600</eladas>
+    </item>
+    <item>
+      <bank>otp</bank>
+      <datum>2025-03-20 14:55:32</datum>
+      <penznem>CZK</penznem>
+      <vetel>15.7800</vetel>
+      <eladas>16.1700</eladas>
+    </item>
+    <item>
+      <bank>otp</bank>
+      <datum>2025-03-20 14:55:32</datum>
+      <penznem>PLN</penznem>
+      <vetel>94.0200</vetel>
+      <eladas>96.4000</eladas>
+    </item>
+    <item>
+      <bank>otp</bank>
+      <datum>2025-03-20 14:55:32</datum>
+      <penznem>EUR</penznem>
+      <vetel>394.6900</vetel>
+      <eladas>404.6800</eladas>
+    </item>
+    <item>
+      <bank>otp</bank>
+      <datum>2025-03-20 14:55:32</datum>
+      <penznem>RON</penznem>
+      <vetel>79.3000</vetel>
+      <eladas>81.3100</eladas>
+    </item>
+    <item>
+      <bank>otp</bank>
+      <datum>2025-03-20 14:55:32</datum>
       <penznem>TRY</penznem>
-      <vetel>9.9200</vetel>
-      <eladas>10.0400</eladas>
+      <vetel>9.6000</vetel>
+      <eladas>9.8400</eladas>
     </item>
     <item>
-      <bank>kh</bank>
-      <datum>2025-03-17 14:05:33</datum>
+      <bank>otp</bank>
+      <datum>2025-03-20 14:55:32</datum>
+      <penznem>BGN</penznem>
+      <vetel>201.8000</vetel>
+      <eladas>206.9100</eladas>
+    </item>
+    <item>
+      <bank>otp</bank>
+      <datum>2025-03-20 14:55:32</datum>
+      <penznem>RSD</penznem>
+      <vetel>3.3700</vetel>
+      <eladas>3.4500</eladas>
+    </item>
+    <item>
+      <bank>otp</bank>
+      <datum>2025-03-20 14:55:32</datum>
+      <penznem>UAH</penznem>
+      <vetel>8.7800</vetel>
+      <eladas>9.0100</eladas>
+    </item>
+    <item>
+      <bank>otp</bank>
+      <datum>2025-03-20 14:55:32</datum>
       <penznem>RUB</penznem>
-      <vetel>4.2900</vetel>
-      <eladas>4.4300</eladas>
+      <vetel>4.3000</vetel>
+      <eladas>4.4000</eladas>
+    </item>
+    <item>
+      <bank>raiffeisen</bank>
+      <datum>2025-03-20 16:50:36</datum>
+      <penznem>GBP</penznem>
+      <vetel>465.1100</vetel>
+      <eladas>488.9700</eladas>
+    </item>
+    <item>
+      <bank>raiffeisen</bank>
+      <datum>2025-03-20 16:50:36</datum>
+      <penznem>AUD</penznem>
+      <vetel>225.7900</vetel>
+      <eladas>237.3700</eladas>
+    </item>
+    <item>
+      <bank>raiffeisen</bank>
+      <datum>2025-03-20 16:50:36</datum>
+      <penznem>DKK</penznem>
+      <vetel>52.1400</vetel>
+      <eladas>54.8200</eladas>
+    </item>
+    <item>
+      <bank>raiffeisen</bank>
+      <datum>2025-03-20 16:50:36</datum>
+      <penznem>JPY</penznem>
+      <vetel>2.4100</vetel>
+      <eladas>2.5336</eladas>
+    </item>
+    <item>
+      <bank>raiffeisen</bank>
+      <datum>2025-03-20 16:50:36</datum>
+      <penznem>CAD</penznem>
+      <vetel>250.1800</vetel>
+      <eladas>263.0000</eladas>
+    </item>
+    <item>
+      <bank>raiffeisen</bank>
+      <datum>2025-03-20 16:50:36</datum>
+      <penznem>NOK</penznem>
+      <vetel>33.9000</vetel>
+      <eladas>35.6400</eladas>
+    </item>
+    <item>
+      <bank>raiffeisen</bank>
+      <datum>2025-03-20 16:50:36</datum>
+      <penznem>CHF</penznem>
+      <vetel>406.1900</vetel>
+      <eladas>427.0300</eladas>
+    </item>
+    <item>
+      <bank>raiffeisen</bank>
+      <datum>2025-03-20 16:50:36</datum>
+      <penznem>SEK</penznem>
+      <vetel>35.3200</vetel>
+      <eladas>37.1400</eladas>
+    </item>
+    <item>
+      <bank>raiffeisen</bank>
+      <datum>2025-03-20 16:50:36</datum>
+      <penznem>USD</penznem>
+      <vetel>358.8600</vetel>
+      <eladas>377.2600</eladas>
+    </item>
+    <item>
+      <bank>raiffeisen</bank>
+      <datum>2025-03-20 16:50:36</datum>
+      <penznem>CZK</penznem>
+      <vetel>15.5500</vetel>
+      <eladas>16.3500</eladas>
+    </item>
+    <item>
+      <bank>raiffeisen</bank>
+      <datum>2025-03-20 16:50:36</datum>
+      <penznem>PLN</penznem>
+      <vetel>92.6900</vetel>
+      <eladas>97.4500</eladas>
+    </item>
+    <item>
+      <bank>raiffeisen</bank>
+      <datum>2025-03-20 16:50:36</datum>
+      <penznem>EUR</penznem>
+      <vetel>388.9300</vetel>
+      <eladas>408.8700</eladas>
+    </item>
+    <item>
+      <bank>raiffeisen</bank>
+      <datum>2025-03-20 16:50:36</datum>
+      <penznem>RON</penznem>
+      <vetel>78.1600</vetel>
+      <eladas>82.1600</eladas>
+    </item>
+    <item>
+      <bank>raiffeisen</bank>
+      <datum>2025-03-20 16:50:36</datum>
+      <penznem>TRY</penznem>
+      <vetel>9.4800</vetel>
+      <eladas>9.9600</eladas>
+    </item>
+    <item>
+      <bank>raiffeisen</bank>
+      <datum>2025-03-20 16:50:36</datum>
+      <penznem>RUB</penznem>
+      <vetel>4.2200</vetel>
+      <eladas>4.4400</eladas>
+    </item>
+    <item>
+      <bank>unicredit</bank>
+      <datum>2025-03-20 12:14:09</datum>
+      <penznem>GBP</penznem>
+      <vetel>464.1569</vetel>
+      <eladas>488.9181</eladas>
+    </item>
+    <item>
+      <bank>unicredit</bank>
+      <datum>2025-03-20 12:14:09</datum>
+      <penznem>AUD</penznem>
+      <vetel>223.6161</vetel>
+      <eladas>239.3769</eladas>
+    </item>
+    <item>
+      <bank>unicredit</bank>
+      <datum>2025-03-20 12:14:09</datum>
+      <penznem>DKK</penznem>
+      <vetel>51.6829</vetel>
+      <eladas>55.3211</eladas>
+    </item>
+    <item>
+      <bank>unicredit</bank>
+      <datum>2025-03-20 12:14:09</datum>
+      <penznem>JPY</penznem>
+      <vetel>2.3895</vetel>
+      <eladas>2.5575</eladas>
+    </item>
+    <item>
+      <bank>unicredit</bank>
+      <datum>2025-03-20 12:14:09</datum>
+      <penznem>CAD</penznem>
+      <vetel>247.2151</vetel>
+      <eladas>264.6159</eladas>
+    </item>
+    <item>
+      <bank>unicredit</bank>
+      <datum>2025-03-20 12:14:09</datum>
+      <penznem>NOK</penznem>
+      <vetel>33.3617</vetel>
+      <eladas>35.7103</eladas>
+    </item>
+    <item>
+      <bank>unicredit</bank>
+      <datum>2025-03-20 12:14:09</datum>
+      <penznem>CHF</penznem>
+      <vetel>406.1920</vetel>
+      <eladas>427.8730</eladas>
+    </item>
+    <item>
+      <bank>unicredit</bank>
+      <datum>2025-03-20 12:14:09</datum>
+      <penznem>SEK</penznem>
+      <vetel>34.8692</vetel>
+      <eladas>37.3238</eladas>
+    </item>
+    <item>
+      <bank>unicredit</bank>
+      <datum>2025-03-20 12:14:09</datum>
+      <penznem>USD</penznem>
+      <vetel>358.2735</vetel>
+      <eladas>377.3945</eladas>
+    </item>
+    <item>
+      <bank>unicredit</bank>
+      <datum>2025-03-20 12:14:09</datum>
+      <penznem>CZK</penznem>
+      <vetel>15.4063</vetel>
+      <eladas>16.4907</eladas>
+    </item>
+    <item>
+      <bank>unicredit</bank>
+      <datum>2025-03-20 12:14:09</datum>
+      <penznem>PLN</penznem>
+      <vetel>91.8628</vetel>
+      <eladas>98.3432</eladas>
+    </item>
+    <item>
+      <bank>unicredit</bank>
+      <datum>2025-03-20 12:14:09</datum>
+      <penznem>EUR</penznem>
+      <vetel>388.7229</vetel>
+      <eladas>409.4771</eladas>
+    </item>
+    <item>
+      <bank>unicredit</bank>
+      <datum>2025-03-20 12:14:09</datum>
+      <penznem>HRK</penznem>
+      <vetel>51.4658</vetel>
+      <eladas>55.1622</eladas>
+    </item>
+    <item>
+      <bank>unicredit</bank>
+      <datum>2025-03-20 12:14:09</datum>
+      <penznem>RON</penznem>
+      <vetel>77.4470</vetel>
+      <eladas>82.8990</eladas>
+    </item>
+    <item>
+      <bank>unicredit</bank>
+      <datum>2025-03-20 12:14:09</datum>
+      <penznem>TRY</penznem>
+      <vetel>9.3127</vetel>
+      <eladas>9.9683</eladas>
+    </item>
+    <item>
+      <bank>unicredit</bank>
+      <datum>2025-03-20 12:14:09</datum>
+      <penznem>BGN</penznem>
+      <vetel>197.0987</vetel>
+      <eladas>210.9794</eladas>
+    </item>
+    <item>
+      <bank>unicredit</bank>
+      <datum>2025-03-20 12:14:09</datum>
+      <penznem>RSD</penznem>
+      <vetel>3.2892</vetel>
+      <eladas>3.5208</eladas>
+    </item>
+    <item>
+      <bank>volksbank</bank>
+      <datum>2013-10-31 12:05:31</datum>
+      <penznem>GBP</penznem>
+      <vetel>338.2200</vetel>
+      <eladas>352.7200</eladas>
+    </item>
+    <item>
+      <bank>volksbank</bank>
+      <datum>2013-10-31 12:05:31</datum>
+      <penznem>AUD</penznem>
+      <vetel>200.9100</vetel>
+      <eladas>209.5300</eladas>
+    </item>
+    <item>
+      <bank>volksbank</bank>
+      <datum>2013-10-31 12:05:31</datum>
+      <penznem>DKK</penznem>
+      <vetel>38.6500</vetel>
+      <eladas>40.3100</eladas>
+    </item>
+    <item>
+      <bank>volksbank</bank>
+      <datum>2013-10-31 12:05:31</datum>
+      <penznem>JPY</penznem>
+      <vetel>2.1499</vetel>
+      <eladas>2.2421</eladas>
+    </item>
+    <item>
+      <bank>volksbank</bank>
+      <datum>2013-10-31 12:05:31</datum>
+      <penznem>CAD</penznem>
+      <vetel>202.0000</vetel>
+      <eladas>210.6600</eladas>
+    </item>
+    <item>
+      <bank>volksbank</bank>
+      <datum>2013-10-31 12:05:31</datum>
+      <penznem>NOK</penznem>
+      <vetel>35.5500</vetel>
+      <eladas>37.0700</eladas>
+    </item>
+    <item>
+      <bank>volksbank</bank>
+      <datum>2013-10-31 12:05:31</datum>
+      <penznem>CHF</penznem>
+      <vetel>233.7400</vetel>
+      <eladas>243.7600</eladas>
+    </item>
+    <item>
+      <bank>volksbank</bank>
+      <datum>2013-10-31 12:05:31</datum>
+      <penznem>SEK</penznem>
+      <vetel>32.7100</vetel>
+      <eladas>34.1100</eladas>
+    </item>
+    <item>
+      <bank>volksbank</bank>
+      <datum>2013-10-31 12:05:31</datum>
+      <penznem>USD</penznem>
+      <vetel>211.0700</vetel>
+      <eladas>220.1300</eladas>
+    </item>
+    <item>
+      <bank>volksbank</bank>
+      <datum>2013-10-31 12:05:31</datum>
+      <penznem>CZK</penznem>
+      <vetel>11.2100</vetel>
+      <eladas>11.6900</eladas>
+    </item>
+    <item>
+      <bank>volksbank</bank>
+      <datum>2013-10-31 12:05:31</datum>
+      <penznem>PLN</penznem>
+      <vetel>68.9800</vetel>
+      <eladas>71.9400</eladas>
+    </item>
+    <item>
+      <bank>volksbank</bank>
+      <datum>2013-10-31 12:05:31</datum>
+      <penznem>EUR</penznem>
+      <vetel>288.2600</vetel>
+      <eladas>300.6200</eladas>
+    </item>
+    <item>
+      <bank>volksbank</bank>
+      <datum>2013-10-31 12:05:31</datum>
+      <penznem>HRK</penznem>
+      <vetel>37.8300</vetel>
+      <eladas>39.4500</eladas>
+    </item>
+    <item>
+      <bank>volksbank</bank>
+      <datum>2013-10-31 12:05:31</datum>
+      <penznem>RON</penznem>
+      <vetel>65.0600</vetel>
+      <eladas>67.8600</eladas>
+    </item>
+    <item>
+      <bank>volksbank</bank>
+      <datum>2013-10-31 12:05:31</datum>
+      <penznem>RUB</penznem>
+      <vetel>6.5800</vetel>
+      <eladas>6.8600</eladas>
+    </item>
+    <item>
+      <bank>mnb</bank>
+      <datum>2025-03-20 11:35:26</datum>
+      <penznem>GBP</penznem>
+      <kozep>476.7100</kozep>
+    </item>
+    <item>
+      <bank>mnb</bank>
+      <datum>2025-03-20 11:35:26</datum>
+      <penznem>AUD</penznem>
+      <kozep>231.6000</kozep>
+    </item>
+    <item>
+      <bank>mnb</bank>
+      <datum>2025-03-20 11:35:26</datum>
+      <penznem>DKK</penznem>
+      <kozep>53.5300</kozep>
+    </item>
+    <item>
+      <bank>mnb</bank>
+      <datum>2025-03-20 11:35:26</datum>
+      <penznem>JPY</penznem>
+      <kozep>2.4737</kozep>
+    </item>
+    <item>
+      <bank>mnb</bank>
+      <datum>2025-03-20 11:35:26</datum>
+      <penznem>CAD</penznem>
+      <kozep>255.9800</kozep>
+    </item>
+    <item>
+      <bank>mnb</bank>
+      <datum>2025-03-20 11:35:26</datum>
+      <penznem>NOK</penznem>
+      <kozep>34.5500</kozep>
+    </item>
+    <item>
+      <bank>mnb</bank>
+      <datum>2025-03-20 11:35:26</datum>
+      <penznem>CHF</penznem>
+      <kozep>417.1500</kozep>
+    </item>
+    <item>
+      <bank>mnb</bank>
+      <datum>2025-03-20 11:35:26</datum>
+      <penznem>SEK</penznem>
+      <kozep>36.1300</kozep>
+    </item>
+    <item>
+      <bank>mnb</bank>
+      <datum>2025-03-20 11:35:26</datum>
+      <penznem>USD</penznem>
+      <kozep>367.9700</kozep>
+    </item>
+    <item>
+      <bank>mnb</bank>
+      <datum>2025-03-20 11:35:26</datum>
+      <penznem>CZK</penznem>
+      <kozep>15.9600</kozep>
+    </item>
+    <item>
+      <bank>mnb</bank>
+      <datum>2025-03-20 11:35:26</datum>
+      <penznem>PLN</penznem>
+      <kozep>95.1600</kozep>
+    </item>
+    <item>
+      <bank>mnb</bank>
+      <datum>2025-03-20 11:35:26</datum>
+      <penznem>EUR</penznem>
+      <kozep>399.3600</kozep>
+    </item>
+    <item>
+      <bank>mnb</bank>
+      <datum>2025-03-20 11:35:26</datum>
+      <penznem>HRK</penznem>
+      <kozep>53.1400</kozep>
+    </item>
+    <item>
+      <bank>mnb</bank>
+      <datum>2025-03-20 11:35:26</datum>
+      <penznem>RON</penznem>
+      <kozep>80.2300</kozep>
+    </item>
+    <item>
+      <bank>mnb</bank>
+      <datum>2025-03-20 11:35:26</datum>
+      <penznem>TRY</penznem>
+      <kozep>9.6900</kozep>
+    </item>
+    <item>
+      <bank>mnb</bank>
+      <datum>2025-03-20 11:35:26</datum>
+      <penznem>BGN</penznem>
+      <kozep>204.1800</kozep>
+    </item>
+    <item>
+      <bank>mnb</bank>
+      <datum>2025-03-20 11:35:26</datum>
+      <penznem>RSD</penznem>
+      <kozep>3.4100</kozep>
+    </item>
+    <item>
+      <bank>mnb</bank>
+      <datum>2025-03-20 11:35:26</datum>
+      <penznem>UAH</penznem>
+      <kozep>8.8500</kozep>
+    </item>
+    <item>
+      <bank>mnb</bank>
+      <datum>2025-03-20 11:35:26</datum>
+      <penznem>RUB</penznem>
+      <kozep>4.3600</kozep>
+    </item>
+    <item>
+      <bank>sopron</bank>
+      <datum>2022-06-29 08:40:55</datum>
+      <penznem>GBP</penznem>
+      <vetel>449.1600</vetel>
+      <eladas>473.1400</eladas>
+    </item>
+    <item>
+      <bank>sopron</bank>
+      <datum>2022-06-29 08:40:55</datum>
+      <penznem>CHF</penznem>
+      <vetel>384.8900</vetel>
+      <eladas>405.4500</eladas>
+    </item>
+    <item>
+      <bank>sopron</bank>
+      <datum>2022-06-29 08:40:55</datum>
+      <penznem>USD</penznem>
+      <vetel>368.1600</vetel>
+      <eladas>387.8200</eladas>
+    </item>
+    <item>
+      <bank>sopron</bank>
+      <datum>2022-06-29 08:40:55</datum>
+      <penznem>EUR</penznem>
+      <vetel>386.7900</vetel>
+      <eladas>407.4500</eladas>
+    </item>
+    <item>
+      <bank>mfb</bank>
+      <datum>2025-03-20 11:10:23</datum>
+      <penznem>GBP</penznem>
+      <vetel>473.2700</vetel>
+      <eladas>479.9500</eladas>
+    </item>
+    <item>
+      <bank>mfb</bank>
+      <datum>2025-03-20 11:10:23</datum>
+      <penznem>AUD</penznem>
+      <vetel>229.2600</vetel>
+      <eladas>233.9000</eladas>
+    </item>
+    <item>
+      <bank>mfb</bank>
+      <datum>2025-03-20 11:10:23</datum>
+      <penznem>DKK</penznem>
+      <vetel>52.9800</vetel>
+      <eladas>54.0600</eladas>
+    </item>
+    <item>
+      <bank>mfb</bank>
+      <datum>2025-03-20 11:10:23</datum>
+      <penznem>JPY</penznem>
+      <vetel>2.4490</vetel>
+      <eladas>2.4984</eladas>
+    </item>
+    <item>
+      <bank>mfb</bank>
+      <datum>2025-03-20 11:10:23</datum>
+      <penznem>CAD</penznem>
+      <vetel>253.4000</vetel>
+      <eladas>258.5200</eladas>
+    </item>
+    <item>
+      <bank>mfb</bank>
+      <datum>2025-03-20 11:10:23</datum>
+      <penznem>NOK</penznem>
+      <vetel>34.2000</vetel>
+      <eladas>34.9000</eladas>
+    </item>
+    <item>
+      <bank>mfb</bank>
+      <datum>2025-03-20 11:10:23</datum>
+      <penznem>CHF</penznem>
+      <vetel>414.2700</vetel>
+      <eladas>420.1100</eladas>
+    </item>
+    <item>
+      <bank>mfb</bank>
+      <datum>2025-03-20 11:10:23</datum>
+      <penznem>SEK</penznem>
+      <vetel>35.7600</vetel>
+      <eladas>36.4800</eladas>
+    </item>
+    <item>
+      <bank>mfb</bank>
+      <datum>2025-03-20 11:10:23</datum>
+      <penznem>USD</penznem>
+      <vetel>365.2800</vetel>
+      <eladas>370.4200</eladas>
+    </item>
+    <item>
+      <bank>mfb</bank>
+      <datum>2025-03-20 11:10:23</datum>
+      <penznem>PLN</penznem>
+      <vetel>94.2200</vetel>
+      <eladas>96.1200</eladas>
+    </item>
+    <item>
+      <bank>mfb</bank>
+      <datum>2025-03-20 11:10:23</datum>
+      <penznem>EUR</penznem>
+      <vetel>396.4600</vetel>
+      <eladas>402.0400</eladas>
+    </item>
+    <item>
+      <bank>fhb</bank>
+      <datum>2019-10-31 08:30:13</datum>
+      <penznem>GBP</penznem>
+      <vetel>377.0100</vetel>
+      <eladas>386.5500</eladas>
+    </item>
+    <item>
+      <bank>fhb</bank>
+      <datum>2019-10-31 08:30:13</datum>
+      <penznem>CHF</penznem>
+      <vetel>295.0600</vetel>
+      <eladas>302.5200</eladas>
+    </item>
+    <item>
+      <bank>fhb</bank>
+      <datum>2019-10-31 08:30:13</datum>
+      <penznem>USD</penznem>
+      <vetel>291.2900</vetel>
+      <eladas>298.6700</eladas>
+    </item>
+    <item>
+      <bank>fhb</bank>
+      <datum>2019-10-31 08:30:13</datum>
+      <penznem>EUR</penznem>
+      <vetel>325.2800</vetel>
+      <eladas>333.5200</eladas>
+    </item>
+    <item>
+      <bank>banco</bank>
+      <datum>2013-10-29 12:07:02</datum>
+      <penznem>GBP</penznem>
+      <vetel>338.8900</vetel>
+      <eladas>345.7300</eladas>
+    </item>
+    <item>
+      <bank>banco</bank>
+      <datum>2013-10-29 12:07:02</datum>
+      <penznem>JPY</penznem>
+      <vetel>2.1576</vetel>
+      <eladas>2.2012</eladas>
+    </item>
+    <item>
+      <bank>banco</bank>
+      <datum>2013-10-29 12:07:02</datum>
+      <penznem>CHF</penznem>
+      <vetel>234.7100</vetel>
+      <eladas>239.4500</eladas>
+    </item>
+    <item>
+      <bank>banco</bank>
+      <datum>2013-10-29 12:07:02</datum>
+      <penznem>USD</penznem>
+      <vetel>210.7500</vetel>
+      <eladas>215.0100</eladas>
+    </item>
+    <item>
+      <bank>banco</bank>
+      <datum>2013-10-29 12:07:02</datum>
+      <penznem>EUR</penznem>
+      <vetel>289.9500</vetel>
+      <eladas>295.8100</eladas>
+    </item>
+    <item>
+      <bank>mtb</bank>
+      <datum>2022-11-30 08:06:15</datum>
+      <penznem>GBP</penznem>
+      <vetel>465.0000</vetel>
+      <eladas>474.4000</eladas>
+    </item>
+    <item>
+      <bank>mtb</bank>
+      <datum>2022-11-30 08:06:15</datum>
+      <penznem>DKK</penznem>
+      <vetel>54.0700</vetel>
+      <eladas>55.1700</eladas>
+    </item>
+    <item>
+      <bank>mtb</bank>
+      <datum>2022-11-30 08:06:15</datum>
+      <penznem>JPY</penznem>
+      <vetel>2.8051</vetel>
+      <eladas>2.8617</eladas>
+    </item>
+    <item>
+      <bank>mtb</bank>
+      <datum>2022-11-30 08:06:15</datum>
+      <penznem>CAD</penznem>
+      <vetel>286.4600</vetel>
+      <eladas>292.2400</eladas>
+    </item>
+    <item>
+      <bank>mtb</bank>
+      <datum>2022-11-30 08:06:15</datum>
+      <penznem>NOK</penznem>
+      <vetel>38.8800</vetel>
+      <eladas>39.6600</eladas>
+    </item>
+    <item>
+      <bank>mtb</bank>
+      <datum>2022-11-30 08:06:15</datum>
+      <penznem>CHF</penznem>
+      <vetel>407.5000</vetel>
+      <eladas>415.7400</eladas>
+    </item>
+    <item>
+      <bank>mtb</bank>
+      <datum>2022-11-30 08:06:15</datum>
+      <penznem>SEK</penznem>
+      <vetel>36.7700</vetel>
+      <eladas>37.5100</eladas>
+    </item>
+    <item>
+      <bank>mtb</bank>
+      <datum>2022-11-30 08:06:15</datum>
+      <penznem>USD</penznem>
+      <vetel>388.8000</vetel>
+      <eladas>396.6600</eladas>
+    </item>
+    <item>
+      <bank>mtb</bank>
+      <datum>2022-11-30 08:06:15</datum>
+      <penznem>CZK</penznem>
+      <vetel>16.5100</vetel>
+      <eladas>16.8500</eladas>
+    </item>
+    <item>
+      <bank>mtb</bank>
+      <datum>2022-11-30 08:06:15</datum>
+      <penznem>PLN</penznem>
+      <vetel>86.0100</vetel>
+      <eladas>87.7500</eladas>
+    </item>
+    <item>
+      <bank>mtb</bank>
+      <datum>2022-11-30 08:06:15</datum>
+      <penznem>EUR</penznem>
+      <vetel>402.1400</vetel>
+      <eladas>410.2600</eladas>
+    </item>
+    <item>
+      <bank>ing</bank>
+      <datum>2012-11-22 09:37:02</datum>
+      <penznem>GBP</penznem>
+      <vetel>344.6500</vetel>
+      <eladas>352.3100</eladas>
+    </item>
+    <item>
+      <bank>ing</bank>
+      <datum>2012-11-22 09:37:02</datum>
+      <penznem>AUD</penznem>
+      <vetel>224.3200</vetel>
+      <eladas>229.3000</eladas>
+    </item>
+    <item>
+      <bank>ing</bank>
+      <datum>2012-11-22 09:37:02</datum>
+      <penznem>DKK</penznem>
+      <vetel>37.2100</vetel>
+      <eladas>38.0300</eladas>
+    </item>
+    <item>
+      <bank>ing</bank>
+      <datum>2012-11-22 09:37:02</datum>
+      <penznem>JPY</penznem>
+      <vetel>2.6208</vetel>
+      <eladas>2.6792</eladas>
+    </item>
+    <item>
+      <bank>ing</bank>
+      <datum>2012-11-22 09:37:02</datum>
+      <penznem>CAD</penznem>
+      <vetel>216.8300</vetel>
+      <eladas>221.6500</eladas>
+    </item>
+    <item>
+      <bank>ing</bank>
+      <datum>2012-11-22 09:37:02</datum>
+      <penznem>NOK</penznem>
+      <vetel>37.8400</vetel>
+      <eladas>38.6800</eladas>
+    </item>
+    <item>
+      <bank>ing</bank>
+      <datum>2012-11-22 09:37:02</datum>
+      <penznem>CHF</penznem>
+      <vetel>230.3300</vetel>
+      <eladas>235.4500</eladas>
+    </item>
+    <item>
+      <bank>ing</bank>
+      <datum>2012-11-22 09:37:02</datum>
+      <penznem>SEK</penznem>
+      <vetel>32.1500</vetel>
+      <eladas>32.8700</eladas>
+    </item>
+    <item>
+      <bank>ing</bank>
+      <datum>2012-11-22 09:37:02</datum>
+      <penznem>USD</penznem>
+      <vetel>215.9600</vetel>
+      <eladas>220.7600</eladas>
+    </item>
+    <item>
+      <bank>ing</bank>
+      <datum>2012-11-22 09:37:02</datum>
+      <penznem>CZK</penznem>
+      <vetel>10.6800</vetel>
+      <eladas>11.3400</eladas>
+    </item>
+    <item>
+      <bank>ing</bank>
+      <datum>2012-11-22 09:37:02</datum>
+      <penznem>PLN</penznem>
+      <vetel>66.1100</vetel>
+      <eladas>70.1900</eladas>
+    </item>
+    <item>
+      <bank>ing</bank>
+      <datum>2012-11-22 09:37:02</datum>
+      <penznem>EUR</penznem>
+      <vetel>277.4700</vetel>
+      <eladas>283.6500</eladas>
+    </item>
+    <item>
+      <bank>hanwha</bank>
+      <datum>2013-12-07 08:02:03</datum>
+      <penznem>GBP</penznem>
+      <vetel>354.0000</vetel>
+      <eladas>361.0000</eladas>
+    </item>
+    <item>
+      <bank>hanwha</bank>
+      <datum>2013-12-07 08:02:03</datum>
+      <penznem>CHF</penznem>
+      <vetel>243.0000</vetel>
+      <eladas>247.0000</eladas>
+    </item>
+    <item>
+      <bank>hanwha</bank>
+      <datum>2013-12-07 08:02:03</datum>
+      <penznem>USD</penznem>
+      <vetel>217.0000</vetel>
+      <eladas>221.0000</eladas>
+    </item>
+    <item>
+      <bank>hanwha</bank>
+      <datum>2013-12-07 08:02:03</datum>
+      <penznem>EUR</penznem>
+      <vetel>297.0000</vetel>
+      <eladas>303.0000</eladas>
+    </item>
+    <item>
+      <bank>magnet</bank>
+      <datum>2024-04-03 11:05:35</datum>
+      <penznem>GBP</penznem>
+      <vetel>453.0000</vetel>
+      <eladas>466.8000</eladas>
+    </item>
+    <item>
+      <bank>magnet</bank>
+      <datum>2024-04-03 11:05:35</datum>
+      <penznem>JPY</penznem>
+      <vetel>2.3729</vetel>
+      <eladas>2.4451</eladas>
+    </item>
+    <item>
+      <bank>magnet</bank>
+      <datum>2024-04-03 11:05:35</datum>
+      <penznem>CHF</penznem>
+      <vetel>396.4600</vetel>
+      <eladas>408.5400</eladas>
+    </item>
+    <item>
+      <bank>magnet</bank>
+      <datum>2024-04-03 11:05:35</datum>
+      <penznem>USD</penznem>
+      <vetel>360.1200</vetel>
+      <eladas>371.0800</eladas>
+    </item>
+    <item>
+      <bank>magnet</bank>
+      <datum>2024-04-03 11:05:35</datum>
+      <penznem>EUR</penznem>
+      <vetel>387.9900</vetel>
+      <eladas>399.8100</eladas>
+    </item>
+    <item>
+      <bank>granit</bank>
+      <datum>2025-03-20 17:10:19</datum>
+      <penznem>GBP</penznem>
+      <vetel>472.2700</vetel>
+      <eladas>481.8100</eladas>
+    </item>
+    <item>
+      <bank>granit</bank>
+      <datum>2025-03-20 17:10:19</datum>
+      <penznem>AUD</penznem>
+      <vetel>229.3200</vetel>
+      <eladas>233.9600</eladas>
+    </item>
+    <item>
+      <bank>granit</bank>
+      <datum>2025-03-20 17:10:19</datum>
+      <penznem>DKK</penznem>
+      <vetel>52.9500</vetel>
+      <eladas>54.0100</eladas>
+    </item>
+    <item>
+      <bank>granit</bank>
+      <datum>2025-03-20 17:10:19</datum>
+      <penznem>JPY</penznem>
+      <vetel>2.4459</vetel>
+      <eladas>2.4953</eladas>
+    </item>
+    <item>
+      <bank>granit</bank>
+      <datum>2025-03-20 17:10:19</datum>
+      <penznem>NOK</penznem>
+      <vetel>34.4300</vetel>
+      <eladas>35.1300</eladas>
+    </item>
+    <item>
+      <bank>granit</bank>
+      <datum>2025-03-20 17:10:19</datum>
+      <penznem>CHF</penznem>
+      <vetel>412.4600</vetel>
+      <eladas>420.8000</eladas>
+    </item>
+    <item>
+      <bank>granit</bank>
+      <datum>2025-03-20 17:10:19</datum>
+      <penznem>SEK</penznem>
+      <vetel>35.8900</vetel>
+      <eladas>36.6100</eladas>
+    </item>
+    <item>
+      <bank>granit</bank>
+      <datum>2025-03-20 17:10:19</datum>
+      <penznem>USD</penznem>
+      <vetel>364.0600</vetel>
+      <eladas>371.4200</eladas>
+    </item>
+    <item>
+      <bank>granit</bank>
+      <datum>2025-03-20 17:10:19</datum>
+      <penznem>PLN</penznem>
+      <vetel>94.1100</vetel>
+      <eladas>96.0100</eladas>
+    </item>
+    <item>
+      <bank>granit</bank>
+      <datum>2025-03-20 17:10:19</datum>
+      <penznem>EUR</penznem>
+      <vetel>394.9100</vetel>
+      <eladas>402.8900</eladas>
+    </item>
+    <item>
+      <bank>granit</bank>
+      <datum>2025-03-20 17:10:19</datum>
+      <penznem>RON</penznem>
+      <vetel>79.3400</vetel>
+      <eladas>80.9400</eladas>
+    </item>
+    <item>
+      <bank>kinizsi</bank>
+      <datum>2019-01-31 10:35:12</datum>
+      <penznem>GBP</penznem>
+      <vetel>356.7300</vetel>
+      <eladas>364.2900</eladas>
+    </item>
+    <item>
+      <bank>kinizsi</bank>
+      <datum>2019-01-31 10:35:12</datum>
+      <penznem>DKK</penznem>
+      <vetel>41.8700</vetel>
+      <eladas>42.7600</eladas>
+    </item>
+    <item>
+      <bank>kinizsi</bank>
+      <datum>2019-01-31 10:35:12</datum>
+      <penznem>JPY</penznem>
+      <vetel>2.4983</vetel>
+      <eladas>2.5514</eladas>
+    </item>
+    <item>
+      <bank>kinizsi</bank>
+      <datum>2019-01-31 10:35:12</datum>
+      <penznem>CAD</penznem>
+      <vetel>206.9900</vetel>
+      <eladas>211.3800</eladas>
+    </item>
+    <item>
+      <bank>kinizsi</bank>
+      <datum>2019-01-31 10:35:12</datum>
+      <penznem>NOK</penznem>
+      <vetel>32.3200</vetel>
+      <eladas>33.0000</eladas>
+    </item>
+    <item>
+      <bank>kinizsi</bank>
+      <datum>2019-01-31 10:35:12</datum>
+      <penznem>CHF</penznem>
+      <vetel>273.6000</vetel>
+      <eladas>279.4100</eladas>
+    </item>
+    <item>
+      <bank>kinizsi</bank>
+      <datum>2019-01-31 10:35:12</datum>
+      <penznem>SEK</penznem>
+      <vetel>30.1200</vetel>
+      <eladas>30.7600</eladas>
+    </item>
+    <item>
+      <bank>kinizsi</bank>
+      <datum>2019-01-31 10:35:12</datum>
+      <penznem>USD</penznem>
+      <vetel>271.7500</vetel>
+      <eladas>277.5200</eladas>
+    </item>
+    <item>
+      <bank>kinizsi</bank>
+      <datum>2019-01-31 10:35:12</datum>
+      <penznem>CZK</penznem>
+      <vetel>12.1200</vetel>
+      <eladas>12.3800</eladas>
+    </item>
+    <item>
+      <bank>kinizsi</bank>
+      <datum>2019-01-31 10:35:12</datum>
+      <penznem>PLN</penznem>
+      <vetel>72.9200</vetel>
+      <eladas>74.4700</eladas>
+    </item>
+    <item>
+      <bank>kinizsi</bank>
+      <datum>2019-01-31 10:35:12</datum>
+      <penznem>EUR</penznem>
+      <vetel>312.4900</vetel>
+      <eladas>319.1300</eladas>
+    </item>
+    <item>
+      <bank>evo</bank>
+      <datum>2014-11-18 08:30:09</datum>
+      <penznem>GBP</penznem>
+      <vetel>380.6600</vetel>
+      <eladas>388.3400</eladas>
+    </item>
+    <item>
+      <bank>evo</bank>
+      <datum>2014-11-18 08:30:09</datum>
+      <penznem>CHF</penznem>
+      <vetel>252.4500</vetel>
+      <eladas>257.5500</eladas>
+    </item>
+    <item>
+      <bank>evo</bank>
+      <datum>2014-11-18 08:30:09</datum>
+      <penznem>USD</penznem>
+      <vetel>243.1400</vetel>
+      <eladas>248.0600</eladas>
+    </item>
+    <item>
+      <bank>evo</bank>
+      <datum>2014-11-18 08:30:09</datum>
+      <penznem>EUR</penznem>
+      <vetel>303.3400</vetel>
+      <eladas>309.4600</eladas>
+    </item>
+    <item>
+      <bank>sberbank</bank>
+      <datum>2022-03-11 12:12:10</datum>
+      <penznem>GBP</penznem>
+      <vetel>441.6400</vetel>
+      <eladas>464.2800</eladas>
+    </item>
+    <item>
+      <bank>sberbank</bank>
+      <datum>2022-03-11 12:12:10</datum>
+      <penznem>AUD</penznem>
+      <vetel>247.9900</vetel>
+      <eladas>260.7100</eladas>
+    </item>
+    <item>
+      <bank>sberbank</bank>
+      <datum>2022-03-11 12:12:10</datum>
+      <penznem>DKK</penznem>
+      <vetel>49.9000</vetel>
+      <eladas>52.4600</eladas>
+    </item>
+    <item>
+      <bank>sberbank</bank>
+      <datum>2022-03-11 12:12:10</datum>
+      <penznem>JPY</penznem>
+      <vetel>2.8917</vetel>
+      <eladas>3.0399</eladas>
+    </item>
+    <item>
+      <bank>sberbank</bank>
+      <datum>2022-03-11 12:12:10</datum>
+      <penznem>CAD</penznem>
+      <vetel>264.1500</vetel>
+      <eladas>277.6900</eladas>
+    </item>
+    <item>
+      <bank>sberbank</bank>
+      <datum>2022-03-11 12:12:10</datum>
+      <penznem>NOK</penznem>
+      <vetel>37.7700</vetel>
+      <eladas>39.7100</eladas>
+    </item>
+    <item>
+      <bank>sberbank</bank>
+      <datum>2022-03-11 12:12:10</datum>
+      <penznem>CHF</penznem>
+      <vetel>362.5600</vetel>
+      <eladas>381.1600</eladas>
+    </item>
+    <item>
+      <bank>sberbank</bank>
+      <datum>2022-03-11 12:12:10</datum>
+      <penznem>SEK</penznem>
+      <vetel>34.8600</vetel>
+      <eladas>36.6400</eladas>
+    </item>
+    <item>
+      <bank>sberbank</bank>
+      <datum>2022-03-11 12:12:10</datum>
+      <penznem>USD</penznem>
+      <vetel>337.3900</vetel>
+      <eladas>354.6900</eladas>
+    </item>
+    <item>
+      <bank>sberbank</bank>
+      <datum>2022-03-11 12:12:10</datum>
+      <penznem>CZK</penznem>
+      <vetel>14.7400</vetel>
+      <eladas>15.5000</eladas>
+    </item>
+    <item>
+      <bank>sberbank</bank>
+      <datum>2022-03-11 12:12:10</datum>
+      <penznem>PLN</penznem>
+      <vetel>77.7100</vetel>
+      <eladas>81.6900</eladas>
+    </item>
+    <item>
+      <bank>sberbank</bank>
+      <datum>2022-03-11 12:12:10</datum>
+      <penznem>EUR</penznem>
+      <vetel>371.3300</vetel>
+      <eladas>390.3700</eladas>
+    </item>
+    <item>
+      <bank>sberbank</bank>
+      <datum>2022-03-11 12:12:10</datum>
+      <penznem>HRK</penznem>
+      <vetel>49.0900</vetel>
+      <eladas>51.6100</eladas>
+    </item>
+    <item>
+      <bank>sberbank</bank>
+      <datum>2022-03-11 12:12:10</datum>
+      <penznem>RON</penznem>
+      <vetel>75.0300</vetel>
+      <eladas>78.8700</eladas>
+    </item>
+    <item>
+      <bank>sberbank</bank>
+      <datum>2022-03-11 12:12:10</datum>
+      <penznem>RUB</penznem>
+      <vetel>2.4500</vetel>
+      <eladas>2.7100</eladas>
+    </item>
+    <item>
+      <bank>szechenyi</bank>
+      <datum>2014-12-05 14:00:24</datum>
+      <penznem>GBP</penznem>
+      <vetel>384.1500</vetel>
+      <eladas>395.8500</eladas>
+    </item>
+    <item>
+      <bank>szechenyi</bank>
+      <datum>2014-12-05 14:00:24</datum>
+      <penznem>CHF</penznem>
+      <vetel>251.6700</vetel>
+      <eladas>259.3300</eladas>
+    </item>
+    <item>
+      <bank>szechenyi</bank>
+      <datum>2014-12-05 14:00:24</datum>
+      <penznem>USD</penznem>
+      <vetel>244.7700</vetel>
+      <eladas>252.2300</eladas>
+    </item>
+    <item>
+      <bank>szechenyi</bank>
+      <datum>2014-12-05 14:00:24</datum>
+      <penznem>EUR</penznem>
+      <vetel>302.4000</vetel>
+      <eladas>311.6100</eladas>
+    </item>
+    <item>
+      <bank>nhb</bank>
+      <datum>2019-03-14 14:25:08</datum>
+      <penznem>GBP</penznem>
+      <vetel>365.2600</vetel>
+      <eladas>372.6400</eladas>
+    </item>
+    <item>
+      <bank>nhb</bank>
+      <datum>2019-03-14 14:25:08</datum>
+      <penznem>CHF</penznem>
+      <vetel>274.1800</vetel>
+      <eladas>279.7200</eladas>
+    </item>
+    <item>
+      <bank>nhb</bank>
+      <datum>2019-03-14 14:25:08</datum>
+      <penznem>USD</penznem>
+      <vetel>275.5200</vetel>
+      <eladas>281.0800</eladas>
+    </item>
+    <item>
+      <bank>nhb</bank>
+      <datum>2019-03-14 14:25:08</datum>
+      <penznem>EUR</penznem>
+      <vetel>311.2600</vetel>
+      <eladas>317.5400</eladas>
+    </item>
+    <item>
+      <bank>akcenta</bank>
+      <datum>2025-03-20 23:30:50</datum>
+      <penznem>GBP</penznem>
+      <vetel>474.3830</vetel>
+      <eladas>479.2390</eladas>
+    </item>
+    <item>
+      <bank>akcenta</bank>
+      <datum>2025-03-20 23:30:50</datum>
+      <penznem>AUD</penznem>
+      <vetel>230.2420</vetel>
+      <eladas>232.7190</eladas>
+    </item>
+    <item>
+      <bank>akcenta</bank>
+      <datum>2025-03-20 23:30:50</datum>
+      <penznem>DKK</penznem>
+      <vetel>53.1810</vetel>
+      <eladas>53.7254</eladas>
+    </item>
+    <item>
+      <bank>akcenta</bank>
+      <datum>2025-03-20 23:30:50</datum>
+      <penznem>JPY</penznem>
+      <vetel>2.4539</vetel>
+      <eladas>2.4806</eladas>
+    </item>
+    <item>
+      <bank>akcenta</bank>
+      <datum>2025-03-20 23:30:50</datum>
+      <penznem>CAD</penznem>
+      <vetel>255.0830</vetel>
+      <eladas>257.7290</eladas>
+    </item>
+    <item>
+      <bank>akcenta</bank>
+      <datum>2025-03-20 23:30:50</datum>
+      <penznem>NOK</penznem>
+      <vetel>34.6349</vetel>
+      <eladas>35.0395</eladas>
+    </item>
+    <item>
+      <bank>akcenta</bank>
+      <datum>2025-03-20 23:30:50</datum>
+      <penznem>CHF</penznem>
+      <vetel>414.7070</vetel>
+      <eladas>418.8750</eladas>
+    </item>
+    <item>
+      <bank>akcenta</bank>
+      <datum>2025-03-20 23:30:50</datum>
+      <penznem>SEK</penznem>
+      <vetel>36.0557</vetel>
+      <eladas>36.4547</eladas>
+    </item>
+    <item>
+      <bank>akcenta</bank>
+      <datum>2025-03-20 23:30:50</datum>
+      <penznem>USD</penznem>
+      <vetel>365.4950</vetel>
+      <eladas>369.0770</eladas>
+    </item>
+    <item>
+      <bank>akcenta</bank>
+      <datum>2025-03-20 23:30:50</datum>
+      <penznem>CZK</penznem>
+      <vetel>15.8472</vetel>
+      <eladas>16.0255</eladas>
+    </item>
+    <item>
+      <bank>akcenta</bank>
+      <datum>2025-03-20 23:30:50</datum>
+      <penznem>PLN</penznem>
+      <vetel>94.3786</vetel>
+      <eladas>95.7757</eladas>
+    </item>
+    <item>
+      <bank>akcenta</bank>
+      <datum>2025-03-20 23:30:50</datum>
+      <penznem>EUR</penznem>
+      <vetel>396.6070</vetel>
+      <eladas>400.5040</eladas>
+    </item>
+    <item>
+      <bank>akcenta</bank>
+      <datum>2025-03-20 23:30:50</datum>
+      <penznem>RON</penznem>
+      <vetel>79.6908</vetel>
+      <eladas>80.4956</eladas>
+    </item>
+    <item>
+      <bank>akcenta</bank>
+      <datum>2025-03-20 23:30:50</datum>
+      <penznem>TRY</penznem>
+      <vetel>9.4682</vetel>
+      <eladas>9.8532</eladas>
+    </item>
+    <item>
+      <bank>akcenta</bank>
+      <datum>2025-03-20 23:30:50</datum>
+      <penznem>RUB</penznem>
+      <vetel>4.3019</vetel>
+      <eladas>4.3459</eladas>
+    </item>
+    <item>
+      <bank>b3takarek</bank>
+      <datum>2019-04-30 08:35:11</datum>
+      <penznem>GBP</penznem>
+      <vetel>367.3300</vetel>
+      <eladas>380.7900</eladas>
+    </item>
+    <item>
+      <bank>b3takarek</bank>
+      <datum>2019-04-30 08:35:11</datum>
+      <penznem>CHF</penznem>
+      <vetel>278.4100</vetel>
+      <eladas>288.6200</eladas>
+    </item>
+    <item>
+      <bank>b3takarek</bank>
+      <datum>2019-04-30 08:35:11</datum>
+      <penznem>USD</penznem>
+      <vetel>283.9500</vetel>
+      <eladas>294.3500</eladas>
+    </item>
+    <item>
+      <bank>b3takarek</bank>
+      <datum>2019-04-30 08:35:11</datum>
+      <penznem>EUR</penznem>
+      <vetel>317.4000</vetel>
+      <eladas>329.0500</eladas>
+    </item>
+    <item>
+      <bank>polgari</bank>
+      <datum>2025-03-20 07:50:31</datum>
+      <penznem>CHF</penznem>
+      <vetel>411.8400</vetel>
+      <eladas>422.6800</eladas>
+    </item>
+    <item>
+      <bank>polgari</bank>
+      <datum>2025-03-20 07:50:31</datum>
+      <penznem>EUR</penznem>
+      <vetel>393.3700</vetel>
+      <eladas>403.7300</eladas>
+    </item>
+    <item>
+      <bank>dtbank</bank>
+      <datum>2023-11-30 08:27:48</datum>
+      <penznem>GBP</penznem>
+      <vetel>426.9300</vetel>
+      <eladas>447.4700</eladas>
+    </item>
+    <item>
+      <bank>dtbank</bank>
+      <datum>2023-11-30 08:27:48</datum>
+      <penznem>DKK</penznem>
+      <vetel>49.4100</vetel>
+      <eladas>51.7900</eladas>
+    </item>
+    <item>
+      <bank>dtbank</bank>
+      <datum>2023-11-30 08:27:48</datum>
+      <penznem>CAD</penznem>
+      <vetel>247.8400</vetel>
+      <eladas>259.7600</eladas>
+    </item>
+    <item>
+      <bank>dtbank</bank>
+      <datum>2023-11-30 08:27:48</datum>
+      <penznem>CHF</penznem>
+      <vetel>385.3300</vetel>
+      <eladas>403.8700</eladas>
+    </item>
+    <item>
+      <bank>dtbank</bank>
+      <datum>2023-11-30 08:27:48</datum>
+      <penznem>SEK</penznem>
+      <vetel>32.4700</vetel>
+      <eladas>34.0300</eladas>
+    </item>
+    <item>
+      <bank>dtbank</bank>
+      <datum>2023-11-30 08:27:48</datum>
+      <penznem>USD</penznem>
+      <vetel>336.4000</vetel>
+      <eladas>352.6000</eladas>
+    </item>
+    <item>
+      <bank>dtbank</bank>
+      <datum>2023-11-30 08:27:48</datum>
+      <penznem>CZK</penznem>
+      <vetel>15.2300</vetel>
+      <eladas>15.9700</eladas>
+    </item>
+    <item>
+      <bank>dtbank</bank>
+      <datum>2023-11-30 08:27:48</datum>
+      <penznem>PLN</penznem>
+      <vetel>85.0500</vetel>
+      <eladas>89.1500</eladas>
+    </item>
+    <item>
+      <bank>dtbank</bank>
+      <datum>2023-11-30 08:27:48</datum>
+      <penznem>EUR</penznem>
+      <vetel>369.2100</vetel>
+      <eladas>386.9900</eladas>
+    </item>
+    <item>
+      <bank>mbh-bb</bank>
+      <datum>2025-03-20 11:50:48</datum>
+      <penznem>GBP</penznem>
+      <vetel>470.5700</vetel>
+      <eladas>482.0100</eladas>
+    </item>
+    <item>
+      <bank>mbh-bb</bank>
+      <datum>2025-03-20 11:50:48</datum>
+      <penznem>AUD</penznem>
+      <vetel>228.9500</vetel>
+      <eladas>234.5100</eladas>
+    </item>
+    <item>
+      <bank>mbh-bb</bank>
+      <datum>2025-03-20 11:50:48</datum>
+      <penznem>DKK</penznem>
+      <vetel>52.8500</vetel>
+      <eladas>54.1300</eladas>
+    </item>
+    <item>
+      <bank>mbh-bb</bank>
+      <datum>2025-03-20 11:50:48</datum>
+      <penznem>JPY</penznem>
+      <vetel>2.4499</vetel>
+      <eladas>2.5095</eladas>
+    </item>
+    <item>
+      <bank>mbh-bb</bank>
+      <datum>2025-03-20 11:50:48</datum>
+      <penznem>CAD</penznem>
+      <vetel>252.7400</vetel>
+      <eladas>258.8800</eladas>
+    </item>
+    <item>
+      <bank>mbh-bb</bank>
+      <datum>2025-03-20 11:50:48</datum>
+      <penznem>NOK</penznem>
+      <vetel>34.1600</vetel>
+      <eladas>34.9800</eladas>
+    </item>
+    <item>
+      <bank>mbh-bb</bank>
+      <datum>2025-03-20 11:50:48</datum>
+      <penznem>CHF</penznem>
+      <vetel>412.0000</vetel>
+      <eladas>422.0000</eladas>
+    </item>
+    <item>
+      <bank>mbh-bb</bank>
+      <datum>2025-03-20 11:50:48</datum>
+      <penznem>SEK</penznem>
+      <vetel>35.7200</vetel>
+      <eladas>36.5800</eladas>
+    </item>
+    <item>
+      <bank>mbh-bb</bank>
+      <datum>2025-03-20 11:50:48</datum>
+      <penznem>USD</penznem>
+      <vetel>364.5700</vetel>
+      <eladas>371.9300</eladas>
+    </item>
+    <item>
+      <bank>mbh-bb</bank>
+      <datum>2025-03-20 11:50:48</datum>
+      <penznem>CZK</penznem>
+      <vetel>15.7700</vetel>
+      <eladas>16.1500</eladas>
+    </item>
+    <item>
+      <bank>mbh-bb</bank>
+      <datum>2025-03-20 11:50:48</datum>
+      <penznem>PLN</penznem>
+      <vetel>94.1100</vetel>
+      <eladas>96.3900</eladas>
+    </item>
+    <item>
+      <bank>mbh-bb</bank>
+      <datum>2025-03-20 11:50:48</datum>
+      <penznem>EUR</penznem>
+      <vetel>395.0100</vetel>
+      <eladas>402.9900</eladas>
+    </item>
+    <item>
+      <bank>mbh-bb</bank>
+      <datum>2025-03-20 11:50:48</datum>
+      <penznem>RON</penznem>
+      <vetel>79.3097</vetel>
+      <eladas>81.2363</eladas>
+    </item>
+    <item>
+      <bank>mbh-mkb</bank>
+      <datum>2025-03-20 17:00:46</datum>
+      <penznem>GBP</penznem>
+      <vetel>467.6000</vetel>
+      <eladas>488.6400</eladas>
+    </item>
+    <item>
+      <bank>mbh-mkb</bank>
+      <datum>2025-03-20 17:00:46</datum>
+      <penznem>AUD</penznem>
+      <vetel>226.8300</vetel>
+      <eladas>237.0300</eladas>
+    </item>
+    <item>
+      <bank>mbh-mkb</bank>
+      <datum>2025-03-20 17:00:46</datum>
+      <penznem>DKK</penznem>
+      <vetel>52.3700</vetel>
+      <eladas>54.7300</eladas>
+    </item>
+    <item>
+      <bank>mbh-mkb</bank>
+      <datum>2025-03-20 17:00:46</datum>
+      <penznem>JPY</penznem>
+      <vetel>2.4261</vetel>
+      <eladas>2.5353</eladas>
+    </item>
+    <item>
+      <bank>mbh-mkb</bank>
+      <datum>2025-03-20 17:00:46</datum>
+      <penznem>CAD</penznem>
+      <vetel>251.3200</vetel>
+      <eladas>262.6200</eladas>
+    </item>
+    <item>
+      <bank>mbh-mkb</bank>
+      <datum>2025-03-20 17:00:46</datum>
+      <penznem>NOK</penznem>
+      <vetel>34.0500</vetel>
+      <eladas>35.5900</eladas>
+    </item>
+    <item>
+      <bank>mbh-mkb</bank>
+      <datum>2025-03-20 17:00:46</datum>
+      <penznem>CHF</penznem>
+      <vetel>408.2000</vetel>
+      <eladas>426.5600</eladas>
+    </item>
+    <item>
+      <bank>mbh-mkb</bank>
+      <datum>2025-03-20 17:00:46</datum>
+      <penznem>SEK</penznem>
+      <vetel>35.4800</vetel>
+      <eladas>37.0800</eladas>
+    </item>
+    <item>
+      <bank>mbh-mkb</bank>
+      <datum>2025-03-20 17:00:46</datum>
+      <penznem>USD</penznem>
+      <vetel>360.8400</vetel>
+      <eladas>377.0800</eladas>
+    </item>
+    <item>
+      <bank>mbh-mkb</bank>
+      <datum>2025-03-20 17:00:46</datum>
+      <penznem>CZK</penznem>
+      <vetel>15.6200</vetel>
+      <eladas>16.3200</eladas>
+    </item>
+    <item>
+      <bank>mbh-mkb</bank>
+      <datum>2025-03-20 17:00:46</datum>
+      <penznem>PLN</penznem>
+      <vetel>93.0200</vetel>
+      <eladas>97.2000</eladas>
+    </item>
+    <item>
+      <bank>mbh-mkb</bank>
+      <datum>2025-03-20 17:00:46</datum>
+      <penznem>EUR</penznem>
+      <vetel>390.6200</vetel>
+      <eladas>408.2000</eladas>
+    </item>
+    <item>
+      <bank>mbh-mkb</bank>
+      <datum>2025-03-20 17:00:46</datum>
+      <penznem>RON</penznem>
+      <vetel>78.4800</vetel>
+      <eladas>82.0200</eladas>
+    </item>
+    <item>
+      <bank>mbh-mkb</bank>
+      <datum>2025-03-20 17:00:46</datum>
+      <penznem>TRY</penznem>
+      <vetel>9.5200</vetel>
+      <eladas>9.9400</eladas>
+    </item>
+    <item>
+      <bank>mbh-mkb</bank>
+      <datum>2025-03-20 17:00:46</datum>
+      <penznem>BGN</penznem>
+      <vetel>199.3900</vetel>
+      <eladas>208.3700</eladas>
+    </item>
+    <item>
+      <bank>mbh-mkb</bank>
+      <datum>2025-03-20 17:00:46</datum>
+      <penznem>RUB</penznem>
+      <vetel>4.2400</vetel>
+      <eladas>4.4400</eladas>
     </item>
   </deviza>
 </arfolyamok>

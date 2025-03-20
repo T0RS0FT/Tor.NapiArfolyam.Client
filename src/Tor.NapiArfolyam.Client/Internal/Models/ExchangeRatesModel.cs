@@ -51,9 +51,12 @@ namespace Tor.NapiArfolyam.Client.Internal.Models
         public string CurrencyCode { get; set; }
 
         [XmlElement(ElementName = "vetel")]
-        public decimal BuyingPrice { get; set; }
+        public decimal? BuyingPrice { get; set; }
 
         [XmlElement(ElementName = "eladas")]
-        public decimal SellingPrice { get; set; }
+        public decimal? SellingPrice { get; set; }
+
+        [XmlElement(ElementName = "kozep")]
+        public decimal? MidPrice { get; set; }
     }
 }

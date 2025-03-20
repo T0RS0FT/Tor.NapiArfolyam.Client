@@ -19,8 +19,10 @@ namespace Tor.NapiArfolyam.Client.Models
 
         public string CurrencyCode { get; set; }
 
-        public decimal BuyingPrice { get; set; }
+        public decimal? BuyingPrice { get; set; }
 
-        public decimal SellingPrice { get; set; }
+        public decimal? SellingPrice { get; set; }
+
+        public decimal? MidPrice { get; set; }
     }
 }

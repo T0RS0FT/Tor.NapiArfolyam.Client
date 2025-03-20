@@ -16,18 +16,20 @@ namespace Tor.NapiArfolyam.Client.Internal
                     CurrencyType = CurrencyType.Valuta,
                     BankCode = x.BankCode,
                     DateTime = DateTime.Parse(x.DateTime, CultureInfo.InvariantCulture),
-                    CurrencyCode=x.CurrencyCode,
-                    BuyingPrice=x.BuyingPrice,
-                    SellingPrice=x.SellingPrice
+                    CurrencyCode = x.CurrencyCode,
+                    BuyingPrice = x.BuyingPrice,
+                    SellingPrice = x.SellingPrice,
+                    MidPrice = x.MidPrice,
                 }),
                 ..x.Deviza?.Items?.Select(x => new ExchangeRateResult()
                 {
                     CurrencyType = CurrencyType.Deviza,
                     BankCode = x.BankCode,
                     DateTime = DateTime.Parse(x.DateTime, CultureInfo.InvariantCulture),
-                    CurrencyCode=x.CurrencyCode,
-                    BuyingPrice=x.BuyingPrice,
-                    SellingPrice=x.SellingPrice
+                    CurrencyCode = x.CurrencyCode,
+                    BuyingPrice = x.BuyingPrice,
+                    SellingPrice = x.SellingPrice,
+                    MidPrice = x.MidPrice,
                 })]
         };
     }
