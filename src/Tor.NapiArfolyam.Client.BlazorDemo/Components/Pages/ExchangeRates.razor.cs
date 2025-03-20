@@ -8,11 +8,11 @@ namespace Tor.NapiArfolyam.Client.BlazorDemo.Components.Pages
         [Inject]
         private INapiArfolyamClient NapiArfolyamClient { get; set; }
 
-        private readonly ExchangeRateRequest request = new();
+        private readonly ExchangeRatesRequest request = new();
         private string error = string.Empty;
         private bool hasError = false;
         private bool hasData = false;
-        private List<ExchangeRateModel> exchangeRates = [];
+        private ExchangeRatesResult exchangeRates;
 
         private async Task LoadData()
         {

@@ -6,8 +6,8 @@ namespace Tor.NapiArfolyam.Client
     {
         Task<bool> HealthCheckAsync();
 
-        Task<NapiArfolyamResponse<List<ExchangeRateModel>>> GetExchangesAsync();
+        Task<NapiArfolyamResponse<ExchangeRatesResult>> GetExchangesAsync();
 
-        Task<NapiArfolyamResponse<List<ExchangeRateModel>>> GetExchangesAsync(ExchangeRateRequest request);
+        Task<NapiArfolyamResponse<ExchangeRatesResult>> GetExchangesAsync(ExchangeRatesRequest request);
     }
 }

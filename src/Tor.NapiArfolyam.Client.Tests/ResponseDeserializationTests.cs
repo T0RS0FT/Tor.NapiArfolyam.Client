@@ -18,15 +18,17 @@ namespace Tor.NapiArfolyam.Client.Tests
             var result = Mappers.ExchangeRates(model);
 
             Assert.IsNotNull(result);
-            Assert.IsTrue(result.Count > 0);
-            Assert.IsTrue(result.Any(x => x.CurrencyType == CurrencyType.Valuta));
-            Assert.IsTrue(result.Any(x => x.CurrencyType == CurrencyType.Deviza));
-            Assert.IsTrue(result.All(x => !string.IsNullOrWhiteSpace(x.CurrencyCode)));
-            Assert.IsTrue(result.All(x => !string.IsNullOrWhiteSpace(x.BankCode)));
-            Assert.IsTrue(result.All(x => x.SellingPrice > 0));
-            Assert.IsTrue(result.All(x => x.BuyingPrice > 0));
-            Assert.IsTrue(result.All(x => x.DateTime > DateTime.MinValue));
-            Assert.IsTrue(result.All(x => x.DateTime < DateTime.MaxValue));
+            Assert.IsNotNull(result.ExchangeRates);
+            Assert.IsFalse(string.IsNullOrWhiteSpace(result.BaseCurrencyCode));
+            Assert.IsTrue(result.ExchangeRates.Count > 0);
+            Assert.IsTrue(result.ExchangeRates.Any(x => x.CurrencyType == CurrencyType.Valuta));
+            Assert.IsTrue(result.ExchangeRates.Any(x => x.CurrencyType == CurrencyType.Deviza));
+            Assert.IsTrue(result.ExchangeRates.All(x => !string.IsNullOrWhiteSpace(x.CurrencyCode)));
+            Assert.IsTrue(result.ExchangeRates.All(x => !string.IsNullOrWhiteSpace(x.BankCode)));
+            Assert.IsTrue(result.ExchangeRates.All(x => x.SellingPrice > 0));
+            Assert.IsTrue(result.ExchangeRates.All(x => x.BuyingPrice > 0));
+            Assert.IsTrue(result.ExchangeRates.All(x => x.DateTime > DateTime.MinValue));
+            Assert.IsTrue(result.ExchangeRates.All(x => x.DateTime < DateTime.MaxValue));
         }
     }
 }

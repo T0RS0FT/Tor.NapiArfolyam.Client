@@ -2,7 +2,14 @@
 
 namespace Tor.NapiArfolyam.Client.Models
 {
-    public class ExchangeRateModel
+    public class ExchangeRatesResult
+    {
+        public string BaseCurrencyCode { get; set; }
+
+        public List<ExchangeRateResult> ExchangeRates { get; set; }
+    }
+
+    public class ExchangeRateResult
     {
         public string BankCode { get; set; }
 

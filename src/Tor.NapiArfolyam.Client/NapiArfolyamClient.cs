@@ -13,18 +13,18 @@ namespace Tor.NapiArfolyam.Client
 
         public async Task<bool> HealthCheckAsync()
         {
-            var result = await GetExchangesAsync(new ExchangeRateRequest() { BankCode = BankType.Cib.ToBankCode(), CurrencyCode = "usd" });
+            var result = await GetExchangesAsync(new ExchangeRatesRequest() { BankCode = BankType.Cib.ToBankCode(), CurrencyCode = "usd" });
 
             return result.Success;
         }
 
-        public async Task<NapiArfolyamResponse<List<ExchangeRateModel>>> GetExchangesAsync()
-            => await GetExchangesAsync(new ExchangeRateRequest());
+        public async Task<NapiArfolyamResponse<ExchangeRatesResult>> GetExchangesAsync()
+            => await GetExchangesAsync(new ExchangeRatesRequest());
 
-        public async Task<NapiArfolyamResponse<List<ExchangeRateModel>>> GetExchangesAsync(ExchangeRateRequest request)
+        public async Task<NapiArfolyamResponse<ExchangeRatesResult>> GetExchangesAsync(ExchangeRatesRequest request)
             => await GetExchangesAsync(request.BankCode, request.CurrencyCode, request.Date, request.EndDate, request.CurrencyType);
 
-        private async Task<NapiArfolyamResponse<List<ExchangeRateModel>>> GetExchangesAsync(string bankCode, string currencyCode, DateOnly? date, DateOnly? endDate, CurrencyType? currencyType)
+        private async Task<NapiArfolyamResponse<ExchangeRatesResult>> GetExchangesAsync(string bankCode, string currencyCode, DateOnly? date, DateOnly? endDate, CurrencyType? currencyType)
         {
             var queryParams = new List<string>();
 
@@ -61,7 +61,7 @@ namespace Tor.NapiArfolyam.Client
 
             if (!httpResponse.IsSuccessStatusCode)
             {
-                return new NapiArfolyamResponse<List<ExchangeRateModel>>()
+                return new NapiArfolyamResponse<ExchangeRatesResult>()
                 {
                     Success = false,
                     Result = null,
@@ -75,7 +75,7 @@ namespace Tor.NapiArfolyam.Client
             {
                 var result = XmlHelper.DeserializeXml<ExchangeRatesModel>(content);
 
-                return new NapiArfolyamResponse<List<ExchangeRateModel>>()
+                return new NapiArfolyamResponse<ExchangeRatesResult>()
                 {
                     Success = true,
                     Result = Mappers.ExchangeRates(result),
@@ -84,7 +84,7 @@ namespace Tor.NapiArfolyam.Client
             }
             else
             {
-                return new NapiArfolyamResponse<List<ExchangeRateModel>>()
+                return new NapiArfolyamResponse<ExchangeRatesResult>()
                 {
                     Success = false,
                     Result = null,
