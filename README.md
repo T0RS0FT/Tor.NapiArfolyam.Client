@@ -35,4 +35,52 @@ public class MyService
 }
 ```
 
+#### Response object
+
+Every method call will return with the following **NapiArfolyamResponse<TResult>** class:
+
+```text
+public class NapiArfolyamResponse<TResult>
+{
+    public bool Success { get; set; }
+
+    public TResult Result { get; set; }
+
+    public string Error { get; set; }
+}
+```
+
+ - When the request succeed
+   - Success: true
+   - Error: null
+   - Result: object
+ - When the request failed
+   - Success: false
+   - Error: error message string
+   - Result: null
+
 #### INapiArfolyamClient.GetExchangesAsync method
+
+Method parameters (you can call the method without any parameters, every parameter is optional):
+
+| Property      | Description                     |
+| ------------- | --------------------------------|
+| BankCode      | Bank code                       |
+| CurrencyCode  | The three letter Currency code  |
+| Date          | Start date / date               |
+| EndDate       | End date                        |
+| CurrencyType  | Valuta / Deviza                 |
+
+Response:
+
+| Property                       | Description                     |
+| ------------------------------ | --------------------------------|
+| BaseCurrencyCode               | Three letter base currency code |
+| ExchangeRates                  | Exchange rates                  |
+| ExchangeRates -> BankCode      | Bank code                       |
+| ExchangeRates -> CurrencyType  | Valuta / Deviza                 |
+| ExchangeRates -> DateTime      | Date of the exchange rate       |
+| ExchangeRates -> CurrencyCode  | Three letter currency code      |
+| ExchangeRates -> BuyingPrice   | Buying price (can be null)      |
+| ExchangeRates -> SellingPrice  | Selling price (can be null)     |
+| ExchangeRates -> MidPrice      | Mid price (can be null)         |
