@@ -11,6 +11,8 @@ namespace Tor.NapiArfolyam.Client
     {
         private readonly HttpClient httpClient = httpClient;
 
+        public string BaseCurrencyCode { get; } = Constants.BaseCurrencyCode;
+
         public async Task<bool> HealthCheckAsync()
         {
             var result = await GetExchangesAsync(new ExchangeRatesRequest() { BankCode = BankType.Cib.ToBankCode(), CurrencyCode = "usd" });

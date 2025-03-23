@@ -3,6 +3,17 @@
   <PropertyGroup>
     <TargetFramework>net8.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
+    <Version>1.0.0</Version>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Title>NapiArfolyam client</Title>
+    <Authors>Tor</Authors>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
+    <RepositoryUrl>https://github.com/T0RS0FT/Tor.NapiArfolyam.Client</RepositoryUrl>
+    <PackageProjectUrl>https://github.com/T0RS0FT/Tor.NapiArfolyam.Client</PackageProjectUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageTags>NapiArfolyam;napiarfolyam.hu;client;api;currency;exchange</PackageTags>
   </PropertyGroup>
 
   <ItemGroup>
@@ -13,6 +24,13 @@
   <ItemGroup>
     <InternalsVisibleTo Include="Tor.NapiArfolyam.Client.Tests" />
     <InternalsVisibleTo Include="Tor.NapiArfolyam.Client.BlazorDemo" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="..\..\README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
   </ItemGroup>
 
 </Project>
