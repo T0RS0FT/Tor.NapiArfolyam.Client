@@ -108,7 +108,7 @@ namespace Tor.NapiArfolyam.Client.Extensions
             {
                 ExchangeRateCalculateMode.BuyingPrice => rate.BuyingPrice ?? rate.MidPrice ?? 0,
                 ExchangeRateCalculateMode.SellingPrice => rate.SellingPrice ?? rate.MidPrice ?? 0,
-                ExchangeRateCalculateMode.MidPrice => rate.MidPrice ?? (rate.BuyingPrice ?? 0 + rate.SellingPrice ?? 0) / 2,
+                ExchangeRateCalculateMode.MidPrice => rate.MidPrice ?? ((rate.BuyingPrice ?? 0) + (rate.SellingPrice ?? 0)) / 2,
                 _ => throw new NotSupportedException(),
             };
         }
