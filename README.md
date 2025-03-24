@@ -2,7 +2,7 @@
 
 [![](https://img.shields.io/nuget/dt/Tor.NapiArfolyam.Client)](#) [![](https://img.shields.io/nuget/v/Tor.NapiArfolyam.Client)](https://www.nuget.org/packages/Tor.NapiArfolyam.Client)
 
-A C# client library for [NapiArfolyamm.hu]([https://www.napiarfolyam.hu/](https://www.napiarfolyam.hu/)) API with dependency injection support.
+A C# client library for [NapiArfolyam.hu]([https://www.napiarfolyam.hu/](https://www.napiarfolyam.hu/)) API with dependency injection support.
 
 ## Installation
 
