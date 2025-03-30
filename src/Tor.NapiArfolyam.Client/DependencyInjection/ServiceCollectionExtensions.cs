@@ -2,7 +2,7 @@
 
 namespace Tor.NapiArfolyam.Client.DependencyInjection
 {
-    public static class NapiArfolyamServiceCollectionExtensions
+    public static class ServiceCollectionExtensions
     {
         public static void AddNapiArfolyam(this IServiceCollection services)
         {
